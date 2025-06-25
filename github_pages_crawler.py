@@ -275,14 +275,6 @@ class GitHubPagesCrawler:
         # Sort posts by date (newest first)
         sorted_posts = sorted(self.index_data, key=lambda x: x["date"], reverse=True)
 
-        # Group posts by year
-        posts_by_year = {}
-        for post in sorted_posts:
-            year = post["date"][:4] if len(post["date"]) >= 4 else "Unknown"
-            if year not in posts_by_year:
-                posts_by_year[year] = []
-            posts_by_year[year].append(post)
-
         # Create index content
         index_content = [
             "---",
@@ -290,26 +282,15 @@ class GitHubPagesCrawler:
             "layout: home",
             "---",
             "",
-            "# Mark Forster Archive",
-            "",
             f"This archive preserves {len(self.index_data)} blog posts and their comments from Mark Forster's productivity blog.",
             "",
             "Mark Forster was a renowned productivity expert and author who developed several influential time management systems including Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).",
             "",
-            "## Posts by Year",
-            "",
         ]
 
-        # Add posts grouped by year
-        for year in sorted(posts_by_year.keys(), reverse=True):
-            if year == "Unknown":
-                continue
-
-            posts = posts_by_year[year]
-            index_content.append(f"### {year} ({len(posts)} posts)")
-            index_content.append("")
-
-            for post in posts:
+        # Add all posts in chronological order (newest first)
+        if sorted_posts:
+            for post in sorted_posts:
                 # Create GitHub Pages URL with repository name
                 # Extract date and slug from file path: _posts/YYYY-MM-DD-slug.md
                 file_path = post["file_path"]
@@ -342,8 +323,6 @@ class GitHubPagesCrawler:
                 index_content.append(
                     f"- [{post['title']}]({github_url}){comments_text}{categories_text}"
                 )
-
-            index_content.append("")
 
         # Write index file
         with open("index.md", "w", encoding="utf-8") as f:
