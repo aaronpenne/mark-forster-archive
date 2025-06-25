@@ -9,16 +9,16 @@ A comprehensive memorial archive of Mark Forster's productivity blog, preserving
 ## 📚 Key Topics & Systems
 
 ### Time Management Systems
-- [**Autofocus**](_posts/2008-12-20-autofocus.md) - The original revolutionary system
-- [**Do It Tomorrow**](_posts/2006-10-23-do-it-tomorrow-interview.md) - Closed list system 
-- [**Final Version Perfected (FVP)**](_posts/2015-05-27-a-day-with-fvp.md) - Mark's ultimate system
-- [**No-List Methods**](_posts/2016-04-17-no-list-tag.md) - Later experiments
+- [**Autofocus**](https://aaronpenne.github.io/mark-forster-archive/2008/12/20/autofocus/) - The original revolutionary system
+- [**Do It Tomorrow**](https://aaronpenne.github.io/mark-forster-archive/2006/10/23/do-it-tomorrow-interview/) - Closed list system 
+- [**Final Version Perfected (FVP)**](https://aaronpenne.github.io/mark-forster-archive/2015/05/27/a-day-with-fvp/) - Mark's ultimate system
+- [**No-List Methods**](https://aaronpenne.github.io/mark-forster-archive/2016/04/17/no-list-tag/) - Later experiments
 
 ### Popular Posts
-- [**"Dreams" - The Underestimated Book**](_posts/2008-02-28-dreams-the-underestimated-book.md)
-- [**Secrets of Productive People**](_posts/2016-02-11-secrets-of-productive-people.md)
-- [**100 Little Hacks to Get Work Finished**](_posts/2007-10-15-101-little-hacks-to-help-you-get-your-work-finished-more-qui.md)
-- [**A Message from Mark's Daughter Anna**](_posts/2015-07-23-a-message-from-marks-daughter-anna.md) *(memorial)*
+- [**"Dreams" - The Underestimated Book**](https://aaronpenne.github.io/mark-forster-archive/2008/02/28/dreams-the-underestimated-book/)
+- [**Secrets of Productive People**](https://aaronpenne.github.io/mark-forster-archive/2016/02/11/secrets-of-productive-people/)
+- [**100 Little Hacks to Get Work Finished**](https://aaronpenne.github.io/mark-forster-archive/2007/10/15/101-little-hacks-to-help-you-get-your-work-finished-more-qui/)
+- [**A Message from Mark's Daughter Anna**](https://aaronpenne.github.io/mark-forster-archive/2015/07/23/a-message-from-marks-daughter-anna/) *(memorial)*
 
 ### Categories
 - **Articles** - Core productivity content
