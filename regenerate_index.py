@@ -117,17 +117,20 @@ def regenerate_index():
         # Create GitHub Pages URL
         filename = os.path.basename(post["file_path"])
         if filename.endswith(".md"):
-            filename = filename[:-3]  # Remove .md extension
+            filename_no_ext = filename[:-3]  # Remove .md extension
+        else:
+            filename_no_ext = filename
 
-        parts = filename.split("-", 3)  # Split into [YYYY, MM, DD, slug]
+        parts = filename_no_ext.split("-", 3)  # Split into [YYYY, MM, DD, slug]
         if len(parts) >= 4:
             year_part, month_part, day_part, slug = parts
             github_url = (
                 f"/mark-forster-archive/{year_part}/{month_part}/{day_part}/{slug}/"
             )
         else:
-            github_url = f"/mark-forster-archive/{filename}/"
+            github_url = f"/mark-forster-archive/{filename_no_ext}/"
 
+        link_text = post["title"].strip() if post["title"].strip() else filename_no_ext
         comments_text = (
             f" ({post['comments_count']} comments)"
             if post["comments_count"] > 0
@@ -138,7 +141,7 @@ def regenerate_index():
         )
 
         index_content.append(
-            f"- [{post['title']}]({github_url}){comments_text}{categories_text}"
+            f"- [{link_text}]({github_url}){comments_text}{categories_text}"
         )
 
     # Write index file
