@@ -228,7 +228,10 @@ class GitHubPagesCrawler:
         # Comments section
         comments = post_data.get("comments", [])
         if comments:
+            content.append("")
             content.append("## Comments")
+            content.append("")
+            content.append("---")
             content.append("")
 
             for i, comment in enumerate(comments, 1):
