@@ -30,14 +30,5 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-blog_post_urls.json
-requirements.txt
-url_extractor.py
-post_extractor.py
-crawler.py
-github_pages_crawler.py
-link_converter.py
-
 # Claude Code workspace files
 .claude/
