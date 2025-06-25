@@ -6,8 +6,7 @@ original_url: "http://markforster.squarespace.com/blog/2014/6/13/from-the-hipste
 layout: post
 ---
 
-There’s an interesting article on various vehicles for to do lists on Danny Schreiber’s Zapier blog, which mentions a couple of my systems.
-I hope he’s corrected the spelling of my name before you all write in and correct him!
+There’s an interesting article on various vehicles for to do lists on Danny Schreiber’s Zapier blog, which mentions a couple of my systems.I hope he’s corrected the spelling of my name before you all write in and correct him!
 
 ## Comments
 

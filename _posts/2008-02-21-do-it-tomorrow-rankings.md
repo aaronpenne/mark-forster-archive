@@ -23,7 +23,10 @@ I agree with your comments about David Allen's book; prior to reading "Do It Tom
 **Author:** learning as I go
 **Date:** February 21, 2008 at 16:08
 
-Hi Mark.So I’m feeling quite well represented!As well you SHOULD BE! But if you want to look further, google yourself! You have blessed many!(and keeps on!!!!....vickie
+Hi Mark
+.So I’m feeling quite well represented!
+As well you SHOULD BE! But if you want to look further, google yourself! You have blessed many!(and keeps on!!!!....
+vickie
 
 ---
 
@@ -31,7 +34,10 @@ Hi Mark.So I’m feeling quite well represented!As well you SHOULD BE! But if yo
 **Author:** learning as I go
 **Date:** February 21, 2008 at 16:13
 
-Hi againre GTD......too complicated....much time wasted *tending* the system itself.....I'd rather have a simple DIT system that invests my thoughts and attention on the work itself! LOL! LOL! LOL!Before the accident, a planner and index cards was all I needed because my brain kept it all in order except the cueing of the planner and index cards...Your system provided me with both the plan and the rule in the WILL DO list system...........If it helps me so much with my damning limitations, I won't even DARE to imagine how much it could help me bring my aspirations forward as a normal functioning person! AAAAKKKKK!!!!! I'd rule the world! LOL!vickie
+Hi again
+re GTD......too complicated....much time wasted *tending* the system itself.....I'd rather have a simple DIT system that invests my thoughts and attention on the work itself! LOL! LOL! LOL!
+Before the accident, a planner and index cards was all I needed because my brain kept it all in order except the cueing of the planner and index cards...Your system provided me with both the plan and the rule in the WILL DO list system...........If it helps me so much with my damning limitations, I won't even DARE to imagine how much it could help me bring my aspirations forward as a normal functioning person! AAAAKKKKK!!!!! I'd rule the world! LOL!
+vickie
 
 ---
 
@@ -47,7 +53,7 @@ Ah yes, I do google myself quite often, and as you will see as well as being a t
 **Author:** Hawaii
 **Date:** March 14, 2008 at 3:18
 
-Looks like an interesting book that is appropriate to my needs. I do need a book about time management. I find that with less workload I still can't find the time to finish before deadline.You might want to know about the Young Entrepreneur Society from the <a href=http://www.YoungEntrepreneurSociety.com>www.YoungEntrepreneurSociety.com</a>. A powerful documentary about successful entrepreneurs.
+Looks like an interesting book that is appropriate to my needs. I do need a book about time management. I find that with less workload I still can't find the time to finish before deadline.You might want to know about the Young Entrepreneur Society from the <a href=[http://www.YoungEntrepreneurSociety.com>www.YoungEntrepreneurSociety.com</a>.](http://www.YoungEntrepreneurSociety.com>www.YoungEntrepreneurSociety.com</a>.) A powerful documentary about successful entrepreneurs.
 
 ---
 

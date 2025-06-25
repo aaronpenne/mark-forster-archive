@@ -14,7 +14,8 @@ A 26 minute audio file of an interview of me on the subject of "Do It Tomorrow"
 **Author:** J
 **Date:** October 23, 2006 at 19:14
 
-Actually, the entire interview (for academicproductivity.com) is covered here:http://www.academicproductivity.com/blog/archives/24It can also be listened online as a stream (if you don't want to download a large file).
+Actually, the entire interview (for academicproductivity.com) is covered here:
+[http://www.academicproductivity.com/blog/archives/24](http://www.academicproductivity.com/blog/archives/24)It can also be listened online as a stream (if you don't want to download a large file).
 
 ---
 

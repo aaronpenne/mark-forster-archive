@@ -7,13 +7,10 @@ original_url: "http://markforster.squarespace.com/blog/2008/2/27/do-it-tomorrow-
 layout: post
 ---
 
-As of this moment, Do It Tomorrow is ranking 203rd in the Amazon UK overall sales ranks and is 1st in the Time Management category. It is also 9th in the Self Help category. This is quite an improvement over the last time I reported on its ratings.I’m really pleased to see that the book’s sales are beginning to rise, as my own personal feeling - and more importantly that of the 20 people who have given it five star reviews - is that it is one of the very best books out there on time management.If you haven’t bought a copy of Do It Tomorrow yet, then why not do so? And if you already have bought a copy, then why not come on one of my seminars for people who have read the book and want to take it further?Buy Do It Tomorrow
-
-Update on Wednesday, February 27, 2008 at 15:41 by
-
+As of this moment, Do It Tomorrow is ranking 203rd in the Amazon UK overall sales ranks and is 1st in the Time Management category. It is also 9th in the Self Help category. This is quite an improvement over the last time I reported on its ratings.I’m really pleased to see that the book’s sales are beginning to rise, as my own personal feeling - and more importantly that of the 20 people who have given it five star reviews - is that it is one of the very best books out there on time management.If you haven’t bought a copy of Do It Tomorrow yet, then why not do so?And if you already have bought a copy, then why not come on one of my seminars for people who have read the book and want to take it further?Buy Do It Tomorrow**Update** on Wednesday, February 27, 2008 at 15:41 by
+[
 Mark Forster
-
-As of now, Do It Tomorrow has moved up to 125th place. Keep buying!  :-)
+](/member/markforster)As of now, Do It Tomorrow has moved up to 125th place. Keep buying!  :-)
 
 ## Comments
 

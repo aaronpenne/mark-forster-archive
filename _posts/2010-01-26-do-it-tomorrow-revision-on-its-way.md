@@ -7,11 +7,7 @@ original_url: "http://markforster.squarespace.com/blog/2010/1/26/do-it-tomorrow-
 layout: post
 ---
 
-After all the lessons which I’ve learned through developing the various versions of Autofocus, I thought it was time to look again at Do It Tomorrow and see whether any of these lessons could be used to improve it. The answer is a resounding “Yes!”
-I’m now testing out what I hope will be the final version of my revisions, and I hope to publish it fairly soon in the form of a supplement to DIT, which will be free of charge.
-The revision keeps the basic structure of DIT, especially the concept of “one day’s work in one day” which was its most innovative feature. However the system is now more flexible and responsive to what goes on during the day. In particular it can now cope extremely well with tasks that need to be done more than once a day. The Current Initiative is streamlined and is better integrated into the system as a whole.
-The biggest difference is in the “audit procedure”. Instead of being just a recommendation, it is now incorporated into the system in such a way that it happens automatically. No thought needed!
-How does DIT now compare to AF? Well, it now seems to be as responsive as AF, is a universal capture system like AF, and forces one much quicker to either do something or discard it. I’m hoping that it will hold up well under the further testing that I will be giving it.
+After all the lessons which I’ve learned through developing the various versions of Autofocus, I thought it was time to look again at Do It Tomorrow and see whether any of these lessons could be used to improve it. The answer is a resounding “Yes!”I’m now testing out what I hope will be the final version of my revisions, and I hope to publish it fairly soon in the form of a supplement to DIT, which will be free of charge.The revision keeps the basic structure of DIT, especially the concept of “one day’s work in one day” which was its most innovative feature. However the system is now more flexible and responsive to what goes on during the day. In particular it can now cope extremely well with tasks that need to be done more than once a day. The Current Initiative is streamlined and is better integrated into the system as a whole.The biggest difference is in the “audit procedure”. Instead of being just a recommendation, it is now incorporated into the system in such a way that it happens automatically. No thought needed!How does DIT now compare to AF? Well, it now seems to be as responsive as AF, is a universal capture system like AF, and forces one much quicker to either do something or discard it. I’m hoping that it will hold up well under the further testing that I will be giving it.
 
 ## Comments
 
@@ -83,7 +79,7 @@ I love DIT's simple principles (my copy's well-thumbed), after getting somewhat 
 **Author:** Jonlat
 **Date:** January 27, 2010 at 5:44
 
-Just a quick request, Mark. Many of us are using something portable (pocket moleskine or iphone) to carry around with us. Our day is full of meetings, traveling, etc.... You mentioned that you are using an A4 notebook with two columns. Could you please include a small portable notebook in your experiment to see how that would fit in your system?
+Just a quick request, Mark.Many of us are using something portable (pocket moleskine or iphone) to carry around with us. Our day is full of meetings, traveling, etc....You mentioned that you are using an A4 notebook with two columns. Could you please include a small portable notebook in your experiment to see how that would fit in your system?
 
 ---
 
@@ -99,7 +95,7 @@ Jonlat:<< Could you please include a small portable notebook in your experiment 
 **Author:** KSRhee
 **Date:** January 27, 2010 at 12:09
 
-Looking forward to it, but perhaps you should just release the draft of what you are doing so that the folks who follow you in the forum can test it out for you as well.I guess you could call it a private beta (alpha). Perhaps others can discovered the "kinks" in the system that will help you to modify it before the public beta. So, instead of putting it off till tomorrow, why not do it today (release it today).Thanks.
+Looking forward to it, but perhaps you should just release the draft of what you are doing so that the folks who follow you in the forum can test it out for you as well.I guess you could call it a private beta (alpha). Perhaps others can discovered the "kinks" in the system that will help you to modify it before the public beta.So, instead of putting it off till tomorrow, why not do it today (release it today).Thanks.
 
 ---
 
@@ -107,7 +103,10 @@ Looking forward to it, but perhaps you should just release the draft of what you
 **Author:** learning as I go
 **Date:** January 27, 2010 at 13:22
 
-Hi KSRheeLOL! So, instead of putting it off till tomorrow, why not do it today (release it today).Are you that presumptive to ask the author of Do It Tomorrow to break his own protocol? LOL! learning as I go
+Hi KSRhee
+LOL!
+So, instead of putting it off till tomorrow, why not do it today (release it today).Are you that presumptive to ask the author of Do It Tomorrow to break his own protocol? LOL!
+learning as I go
 
 ---
 
@@ -123,7 +122,10 @@ Actually it's working for me so well, I think I'll keep it to myself and use it 
 **Author:** learning as I go
 **Date:** January 27, 2010 at 16:40
 
-(head respectfully bowed....)Your excellency,We've survived far worse dictatorships than living under the rule of your kind and genteel soul. I'll gladly make do with my humble weekly version of AF if it means that your exclusive use of DIT2 to harness and project your power will overtake the current numbskulls who are perverting our governments. I'll gladly make the sacrifice in the service of mankind!A grateful DIT sheeple
+(head respectfully bowed....)
+Your excellency,
+We've survived far worse dictatorships than living under the rule of your kind and genteel soul. I'll gladly make do with my humble weekly version of AF if it means that your exclusive use of DIT2 to harness and project your power will overtake the current numbskulls who are perverting our governments. I'll gladly make the sacrifice in the service of mankind!
+A grateful DIT sheeple
 
 ---
 
@@ -147,7 +149,9 @@ oops DIT, not AF
 **Author:** learning as I go
 **Date:** January 27, 2010 at 16:45
 
-Hi ksrheeYou're preaching to the choir in Mark's case. His benevolence is one of the ruling characteristic of his persona, followed closely by his wonderfully eccentric humor!learning as I go
+Hi ksrhee
+You're preaching to the choir in Mark's case. His benevolence is one of the ruling characteristic of his persona, followed closely by his wonderfully eccentric humor!
+learning as I go
 
 ---
 
@@ -155,7 +159,7 @@ Hi ksrheeYou're preaching to the choir in Mark's case. His benevolence is one of
 **Author:** Robert
 **Date:** January 28, 2010 at 2:03
 
-ohhhhhhhhhhh yeah! thank you, thank you, thank you. I like the idea of the "one day's work" for one day. It's highly teachable to employees and helps when determining if a new employee can be hired. . . .Thanks for the email letting me know you were doing this. I haven't been here in months!Robert
+ohhhhhhhhhhh yeah! thank you, thank you, thank you.I like the idea of the "one day's work" for one day. It's highly teachable to employees and helps when determining if a new employee can be hired. . . .Thanks for the email letting me know you were doing this. I haven't been here in months!Robert
 
 ---
 

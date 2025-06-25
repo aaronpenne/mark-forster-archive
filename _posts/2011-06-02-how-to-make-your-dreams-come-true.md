@@ -7,12 +7,7 @@ original_url: "http://markforster.squarespace.com/blog/2011/6/2/how-to-make-your
 layout: post
 ---
 
-I feel that I’ve taken SuperFocus about as far as I can for the time being, and so I have turned my attention back to my second book (of three) How To Make Your Dreams Come True. This book is now out of print, but you can download it for free by clicking here.
-I’m seriously thinking of re-writing this book as an e-book. It’s very different both in content and style from my other two books, and I think the style tended to put many people off. What I think is needed is a clear manual which is much easier to follow.
-In the meantime, many of the issues raised by Dreams are being explored by the Forum members. See the threads:
-Personal Experience with Mark’s “How To Make…”
-What to Expect Initially From Dreams
-I would welcome input, either in the Comments to this post or in the Forum, from anyone who has used or is using the Dreams principles.
+I feel that I’ve taken SuperFocus about as far as I can for the time being, and so I have turned my attention back to my second book (of three) How To Make Your Dreams Come True. This book is now out of print, but you can download it for free by clicking here.I’m seriously thinking of re-writing this book as an e-book. It’s very different both in content and style from my other two books, and I think the style tended to put many people off. What I think is needed is a clear manual which is much easier to follow.In the meantime, many of the issues raised by Dreams are being explored by the Forum members. See the threads:Personal Experience with Mark’s “How To Make…”What to Expect Initially From DreamsI would welcome input, either in the Comments to this post or in the Forum, from anyone who has used or is using the Dreams principles.
 
 ## Comments
 
@@ -52,7 +47,7 @@ One suggestion: replace "Future Vision" with "Ideal" - it eliminates push-mode d
 **Author:** Mark
 **Date:** June 2, 2011 at 22:06
 
-I used this site to make a .mobi for my Kindle. It handles other formats too :) http://www.2epub.com/
+I used this site to make a .mobi for my Kindle. It handles other formats too :)[http://www.2epub.com/](http://www.2epub.com/)
 
 ---
 
@@ -116,7 +111,7 @@ Mark:<< Unless you're too cheap to use their conversion service >>It's free if d
 **Author:** Alan Baljeu
 **Date:** June 2, 2011 at 22:29
 
-Suggestion: Divide in 2 parts. One part explanatory text "here's how to do the dreams method" interwoven with your dialogues to illustrate.. Also I find coaches tend to be circular in applying their own methods. It's like salesmen who sell sales lessons and artists who paint about art, and writers who write about writing: They connect to their peers but not the general public. A book that teaches dream pursuit by example of dreaming about mastering dream fulfillment techniques - I don't know if your book is like this, but it's my impression of the format.
+Suggestion: Divide in 2 parts. One part explanatory text "here's how to do the dreams method" interwoven with your dialogues to illustrate..Also I find coaches tend to be circular in applying their own methods. It's like salesmen who sell sales lessons and artists who paint about art, and writers who write about writing: They connect to their peers but not the general public. A book that teaches dream pursuit by example of dreaming about mastering dream fulfillment techniques - I don't know if your book is like this, but it's my impression of the format.
 
 ---
 
@@ -212,7 +207,8 @@ Cricket:You're right. The exercises and methods are designed to get at your insi
 **Author:** Moriene
 **Date:** July 21, 2011 at 10:02
 
-While fulfilling your dreams first you need to improvise yourself and for that you need proper time management. Time management is most important aspect of life.http://www.thoughtful-self-improvement.com/Time-Management-T2.html
+While fulfilling your dreams first you need to improvise yourself and for that you need proper time management. Time management is most important aspect of life.
+[http://www.thoughtful-self-improvement.com/Time-Management-T2.html](http://www.thoughtful-self-improvement.com/Time-Management-T2.html)
 
 ---
 
@@ -220,6 +216,6 @@ While fulfilling your dreams first you need to improvise yourself and for that y
 **Author:** michael
 **Date:** February 10, 2012 at 21:58
 
-While watching "The Time Traveller's Wife" I came across http://iamasuccessstory.com/ so just had to share the synchronicity.
+While watching "The Time Traveller's Wife" I came across [http://iamasuccessstory.com/](http://iamasuccessstory.com/) so just had to share the synchronicity.
 
 ---

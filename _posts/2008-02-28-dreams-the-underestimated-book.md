@@ -7,7 +7,7 @@ original_url: "http://markforster.squarespace.com/blog/2008/2/28/dreams-the-unde
 layout: post
 ---
 
-Some people consider How to Make Your Dreams Come True to be my best book. Others can’t stand it. This ambivalent response probably explain why the sales have never been as good as my other two books. Personally I think it is at least as good as many top selling self help books and a good deal better than many!But you don’t have to take my word for it. You can find out for yourself very cheaply because it is only £5.99 on Amazon UK at the moment. And to whet your appetite I plan to run a series of articles on this blog over the next few weeks on themes from the book.Buy How to Make Your Dreams Come True
+Some people consider How to Make Your Dreams Come True to be my best book. Others can’t stand it. This ambivalent response probably explain why the sales have never been as good as my other two books. Personally I think it is at least as good as many top selling self help books and a good deal better than many!But you don’t have to take my word for it. You can find out for yourself very cheaply because it is only £5.99 on Amazon UK at the moment. And to whet your appetite I plan to run a series of articles on this blog over the next few weeks on themes from the book.[Buy How to Make Your Dreams Come True](http://www.amazon.co.uk/exec/obidos/ASIN/0340786299/markforstthet-21/202-3722892-4223056)
 
 ## Comments
 
@@ -15,7 +15,7 @@ Some people consider How to Make Your Dreams Come True to be my best book. Other
 **Author:** David
 **Date:** February 28, 2008 at 9:29
 
-Hi Mark, just to let you know that, despite being a long-time subscriber, I am seriously considering unsubscribing from your blog. The signal-to-noise ratio for me has dropped dramatically recently. To me it is reading like a boring diary interleaved with adverts! I'd really like you to return to the old days where you pumped out a series of useful ideas that made us understand your books better (even if that means much less frequent posts).
+Hi Mark, just to let you know that, despite being a long-time subscriber, I am seriously considering unsubscribing from your blog.The signal-to-noise ratio for me has dropped dramatically recently. To me it is reading like a boring diary interleaved with adverts!I'd really like you to return to the old days where you pumped out a series of useful ideas that made us understand your books better (even if that means much less frequent posts).
 
 ---
 
@@ -31,7 +31,8 @@ Dear DavidSorry you feel that way. Most of the comments I have had have been fro
 **Author:** Mark Forster
 **Date:** February 28, 2008 at 11:14
 
-P.S.One way I've thought of to help people in your situation is to introduce a new category "Articles" which will be reserved for proper articles. That means that if you unsubscribe from the blog you can identify what you might be interested in when you visit the site by going to that category in the Blog Archive.I also have a vague feeling that it's possible to subscribe to a feed for a specific category. I'll have to investigate that. I'll let you know!
+P.S.
+One way I've thought of to help people in your situation is to introduce a new category "Articles" which will be reserved for proper articles. That means that if you unsubscribe from the blog you can identify what you might be interested in when you visit the site by going to that category in the Blog Archive.I also have a vague feeling that it's possible to subscribe to a feed for a specific category. I'll have to investigate that. I'll let you know!
 
 ---
 
@@ -39,7 +40,8 @@ P.S.One way I've thought of to help people in your situation is to introduce a n
 **Author:** Mark Forster
 **Date:** February 28, 2008 at 11:46
 
-P.P.SI have put a Latest Articles entry on the sidebar in the Navigation section. That should make it easy for you to identify what you want to read when visiting the site.
+P.P.S
+I have put a Latest Articles entry on the sidebar in the Navigation section. That should make it easy for you to identify what you want to read when visiting the site.
 
 ---
 
@@ -47,7 +49,8 @@ P.P.SI have put a Latest Articles entry on the sidebar in the Navigation section
 **Author:** Mark Forster
 **Date:** February 28, 2008 at 12:15
 
-P.P.P.S.The URL to enter into your feed reader for the Latest Articles Only feed is http://www.markforster.net/blog/rss.xml?categoryId=168181
+P.P.P.S.
+The URL to enter into your feed reader for the Latest Articles Only feed is [http://www.markforster.net/blog/rss.xml?categoryId=168181](http://www.markforster.net/blog/rss.xml?categoryId=168181)
 
 ---
 
@@ -111,7 +114,7 @@ I suggest you look at the summary on p. 193.
 **Author:** Hannah
 **Date:** April 27, 2008 at 17:58
 
-I have found that this book is one I come back to every now and then as a way to focus what I am aiming for. The idea of having a clear vision of where you want to be seems to work well over time - and comparing your present situation to that vision to see what needs to change can also be helpful in ensuring your goals/projects are actually going to get you where you want to be. It is also helpful in making sure you trim back those committments that don't move you in the right direction, however worthwhile they may seem in and of themselves - there are only 24 hours in the day and you can only do so much!The dialoguing is something I have only recently started to use in earnest having seen it also mentioned elsewhere. My method is maybe just a little different but probably in the same vein (Mark, correct me if I'm wrong here!). I think of something I want to achieve then one of the 'voices' takes the form of an interiewer asking the future self (voice 2) how I managed to achieve the particular goal. The first time I tried it I was amazed at what I came up with - I was writing in a journal type situation. It seems to reveal insights into how you can go about achieving goals and projects that somehow ordinary thinking doesn't seem to produce.I don't know if any of this sheds any light on the 'Dreams' book and sometimes you have to be in the right frame of mind to get the most from some books, but I hope my experiences help to explain it in some way.Good luck
+I have found that this book is one I come back to every now and then as a way to focus what I am aiming for. The idea of having a clear vision of where you want to be seems to work well over time - and comparing your present situation to that vision to see what needs to change can also be helpful in ensuring your goals/projects are actually going to get you where you want to be.It is also helpful in making sure you trim back those committments that don't move you in the right direction, however worthwhile they may seem in and of themselves - there are only 24 hours in the day and you can only do so much!The dialoguing is something I have only recently started to use in earnest having seen it also mentioned elsewhere. My method is maybe just a little different but probably in the same vein (Mark, correct me if I'm wrong here!). I think of something I want to achieve then one of the 'voices' takes the form of an interiewer asking the future self (voice 2) how I managed to achieve the particular goal. The first time I tried it I was amazed at what I came up with - I was writing in a journal type situation. It seems to reveal insights into how you can go about achieving goals and projects that somehow ordinary thinking doesn't seem to produce.I don't know if any of this sheds any light on the 'Dreams' book and sometimes you have to be in the right frame of mind to get the most from some books, but I hope my experiences help to explain it in some way.Good luck
 
 ---
 

@@ -7,7 +7,7 @@ original_url: "http://markforster.squarespace.com/blog/2008/1/21/how-to-make-you
 layout: post
 ---
 
-There’s a complimentary review of How to Make Your Dreams Come True on Jennifer George’s Lifemuncher blog.Forster combines a comforting, down to earth, practical Englishness with a very American understanding of the value of self-interest and creativityI’d not seen this blog before, but it’s full of useful tips and tricks for everyday productivity, written with some humour and a great deal of zest for living. Thank you, Jennifer!To read the whole review, click here.
+There’s a complimentary review of How to Make Your Dreams Come True on Jennifer George’s Lifemuncher blog.> Forster combines a comforting, down to earth, practical Englishness with a very American understanding of the value of self-interest and creativityI’d not seen this blog before, but it’s full of useful tips and tricks for everyday productivity, written with some humour and a great deal of zest for living. Thank you, Jennifer!To read the whole review, click here.
 
 ## Comments
 
@@ -15,7 +15,8 @@ There’s a complimentary review of How to Make Your Dreams Come True on Jennife
 **Author:** Adam
 **Date:** February 20, 2009 at 19:32
 
-Hi Mark,Any idea if this book will be available to buy on Amazon, The Book Depository (my preferred online book store), or Better World Books anytime soon?I'm keen to purchase it :)AdamSydney, Australia
+Hi Mark,Any idea if this book will be available to buy on Amazon, The Book Depository (my preferred online book store), or Better World Books anytime soon?I'm keen to purchase it :)Adam
+Sydney, Australia
 
 ---
 

@@ -6,5 +6,4 @@ original_url: "http://markforster.squarespace.com/blog/2016/4/17/no-list-tag.htm
 layout: post
 ---
 
-I’ve just spent an hour or so tagging all the posts about “No List”.
-Please let me know in the comments if you find any that I’ve missed.
+I’ve just spent an hour or so tagging all the posts about “No List”.Please let me know in the comments if you find any that I’ve missed.

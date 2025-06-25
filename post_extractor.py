@@ -60,6 +60,69 @@ class PostExtractor:
             logger.error(f"Failed to fetch post {url}: {e}")
             raise
     
+    def html_to_markdown(self, html_content):
+        """Convert HTML content to markdown while preserving formatting"""
+        if not html_content:
+            return ""
+        
+        # Parse HTML
+        soup = BeautifulSoup(html_content, 'lxml')
+        
+        # Handle common HTML elements
+        # Convert <p> tags to paragraphs with double line breaks
+        for p in soup.find_all('p'):
+            p.replace_with(p.get_text() + '\n\n')
+        
+        # Convert <br> tags to single line breaks
+        for br in soup.find_all('br'):
+            br.replace_with('\n')
+        
+        # Convert <strong> and <b> to bold markdown
+        for strong in soup.find_all(['strong', 'b']):
+            strong.replace_with(f"**{strong.get_text()}**")
+        
+        # Convert <em> and <i> to italic markdown
+        for em in soup.find_all(['em', 'i']):
+            em.replace_with(f"*{em.get_text()}*")
+        
+        # Convert <a> tags to markdown links
+        for a in soup.find_all('a'):
+            href = a.get('href', '')
+            text = a.get_text()
+            if href and text:
+                a.replace_with(f"[{text}]({href})")
+            else:
+                a.replace_with(text)
+        
+        # Convert <ul> and <ol> to markdown lists
+        for ul in soup.find_all('ul'):
+            items = []
+            for li in ul.find_all('li'):
+                items.append(f"- {li.get_text().strip()}")
+            ul.replace_with('\n'.join(items) + '\n\n')
+        
+        for ol in soup.find_all('ol'):
+            items = []
+            for i, li in enumerate(ol.find_all('li'), 1):
+                items.append(f"{i}. {li.get_text().strip()}")
+            ol.replace_with('\n'.join(items) + '\n\n')
+        
+        # Convert blockquotes
+        for blockquote in soup.find_all('blockquote'):
+            quoted_text = blockquote.get_text().strip()
+            quoted_lines = [f"> {line}" for line in quoted_text.split('\n') if line.strip()]
+            blockquote.replace_with('\n'.join(quoted_lines) + '\n\n')
+        
+        # Get the final text and clean it up
+        text = soup.get_text()
+        
+        # Clean up excessive whitespace but preserve intentional formatting
+        text = re.sub(r'[ \t]+', ' ', text)  # Collapse horizontal whitespace
+        text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)  # Collapse multiple line breaks to double
+        text = re.sub(r'^\s+|\s+$', '', text, flags=re.MULTILINE)  # Strip leading/trailing space from lines
+        
+        return text.strip()
+    
     def clean_text(self, text, preserve_formatting=False):
         """Clean and normalize text content"""
         if not text:
@@ -108,7 +171,7 @@ class PostExtractor:
                 # Get full HTML content to preserve formatting
                 comment_body = str(body_elem)
                 # Also get clean text version
-                comment_text = self.clean_text(body_elem.get_text(), preserve_formatting=True)
+                comment_text = self.html_to_markdown(str(body_elem))
             else:
                 comment_text = ""
             
@@ -156,7 +219,7 @@ class PostExtractor:
         
         content_elem = soup.select_one(self.selectors['content'])
         content_html = str(content_elem) if content_elem else ""
-        content_text = self.clean_text(content_elem.get_text(), preserve_formatting=True) if content_elem else ""
+        content_text = self.html_to_markdown(str(content_elem)) if content_elem else ""
         
         author_elem = soup.select_one(self.selectors['author'])
         author = self.clean_text(author_elem.get_text()) if author_elem else ""

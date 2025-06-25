@@ -170,10 +170,29 @@ class GitHubPagesCrawler:
         
         # Front matter for GitHub Pages
         content.append("---")
-        title = post_data.get("title", "Untitled").replace('"', '\\"')
+        
+        # Handle title
+        title = post_data.get("title", "Untitled").replace('"', '\\"') or "Untitled"
         content.append(f'title: "{title}"')
-        content.append(f'author: "{post_data.get("author", "Mark Forster")}"')
-        content.append(f'date: "{post_data.get("date", "")}"')
+        
+        # Handle author
+        author = post_data.get("author", "Mark Forster") or "Mark Forster"
+        content.append(f'author: "{author}"')
+        
+        # Handle date - extract from filename if post date is empty
+        post_date = post_data.get("date", "")
+        if not post_date:
+            # Extract date from file path: YYYY-MM-DD
+            import re
+            date_match = re.search(r'(\d{4})-(\d{2})-(\d{2})', file_path)
+            if date_match:
+                year, month, day = date_match.groups()
+                post_date = f"{year}-{month}-{day}"
+        
+        if post_date:
+            content.append(f'date: "{post_date}"')
+        
+        # Handle categories
         if post_data.get('categories'):
             categories = []
             for cat in post_data['categories']:
@@ -181,8 +200,14 @@ class GitHubPagesCrawler:
                     categories.append(cat.get('name', str(cat)))
                 else:
                     categories.append(str(cat))
-            content.append(f'categories: {categories}')
-        content.append(f'original_url: "{post_data.get("url", "")}"')
+            if categories:
+                content.append(f'categories: {categories}')
+        
+        # Original URL
+        original_url = post_data.get("url", "")
+        if original_url:
+            content.append(f'original_url: "{original_url}"')
+        
         content.append("layout: post")
         content.append("---")
         content.append("")
