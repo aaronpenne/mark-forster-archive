@@ -32,6 +32,21 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
+  <!-- Previous/Next Navigation -->
+  <div class="post-navigation">
+    {% raw %}{% if page.previous %}
+    <div class="nav-previous">
+      <a href="{{ page.previous.url }}" rel="prev">
+        ← {{ page.previous.title }}
+      </a>
+    </div>
+    {% endif %} {% if page.next %}
+    <div class="nav-next">
+      <a href="{{ page.next.url }}" rel="next"> {{ page.next.title }} → </a>
+    </div>
+    {% endif %}{% endraw %}
+  </div>
+
   {%- if page.original_url -%}
   <div class="post-footer">
     <p>

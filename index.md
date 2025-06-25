@@ -7,6 +7,13 @@ title: "Mark Forster Archive"
 
 A comprehensive archive of Mark Forster's productivity blog, preserving his influential work on time management systems like Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).
 
+## Search Posts
+
+<div class="search-container">
+  <input type="text" class="search-input" placeholder="Search posts by title or content..." id="searchInput">
+  <div class="search-results hidden" id="searchResults"></div>
+</div>
+
 ## Recent Posts
 
 {% raw %}{% for post in site.posts limit:10 %}
@@ -35,4 +42,62 @@ A comprehensive archive of Mark Forster's productivity blog, preserving his infl
 ---
 
 **Original site**: [markforster.squarespace.com](http://markforster.squarespace.com) (no longer maintained)  
-**Archive created**: 2025 as a community project 
+**Archive created**: 2025 as a community project
+
+<script>
+// Search functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('searchInput');
+  const searchResults = document.getElementById('searchResults');
+  
+  // Get all posts data
+  const posts = [
+    {% raw %}{% for post in site.posts %}
+    {
+      title: "{{ post.title | escape }}",
+      url: "{{ post.url }}",
+      date: "{{ post.date | date: '%B %-d, %Y' }}",
+      excerpt: "{{ post.excerpt | strip_html | truncatewords: 30 | escape }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}{% endraw %}
+  ];
+
+  searchInput.addEventListener('input', function() {
+    const query = this.value.toLowerCase();
+    
+    if (query.length < 2) {
+      searchResults.innerHTML = '';
+      searchResults.classList.add('hidden');
+      return;
+    }
+
+    const filteredPosts = posts.filter(post => 
+      post.title.toLowerCase().includes(query) ||
+      post.excerpt.toLowerCase().includes(query)
+    );
+
+    displayResults(filteredPosts);
+  });
+
+  function displayResults(results) {
+    searchResults.innerHTML = '';
+    
+    if (results.length === 0) {
+      searchResults.innerHTML = '<div class="search-result">No posts found</div>';
+    } else {
+      results.slice(0, 10).forEach(post => {
+        const resultDiv = document.createElement('a');
+        resultDiv.href = post.url;
+        resultDiv.className = 'search-result';
+        resultDiv.innerHTML = `
+          <div class="search-result-title">${post.title}</div>
+          <div class="search-result-date">${post.date}</div>
+        `;
+        searchResults.appendChild(resultDiv);
+      });
+    }
+    
+    searchResults.classList.remove('hidden');
+  }
+});
+</script> 
