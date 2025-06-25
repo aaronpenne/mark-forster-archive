@@ -45,7 +45,7 @@ include:
 # Theme settings - using minima for better compatibility
 theme: minima
 
-# Show excerpts on index page
+# Show excerpts on index page (not full content)
 show_excerpts: true
 
 # Social media

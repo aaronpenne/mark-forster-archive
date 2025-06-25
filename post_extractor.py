@@ -69,6 +69,32 @@ class PostExtractor:
         # Parse HTML with BeautifulSoup
         soup = BeautifulSoup(html_content, "lxml")
 
+        # Remove script tags and CDATA content
+        for script in soup.find_all("script"):
+            script.decompose()
+
+        # Remove CDATA sections
+        for cdata in soup.find_all(
+            text=lambda text: isinstance(text, str) and "CDATA" in text
+        ):
+            cdata.replace_with("")
+
+        # Remove any remaining JavaScript-like content
+        for element in soup.find_all(text=True):
+            if element and isinstance(element, str):
+                # Remove CDATA and JavaScript patterns
+                cleaned = re.sub(
+                    r"//\s*<!\[CDATA\[.*?\]\]>//?", "", element, flags=re.DOTALL
+                )
+                cleaned = re.sub(
+                    r"//\s*<!\s*\[CDATA\[.*?\]\]>\s*//?", "", cleaned, flags=re.DOTALL
+                )
+                cleaned = re.sub(
+                    r"<script.*?</script>", "", cleaned, flags=re.DOTALL | re.IGNORECASE
+                )
+                if cleaned != element:
+                    element.replace_with(cleaned)
+
         # Convert <p> tags to proper markdown paragraphs with double line breaks
         for p in soup.find_all("p"):
             # Get the text content and convert any remaining HTML within the paragraph

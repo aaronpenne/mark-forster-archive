@@ -345,17 +345,6 @@ class GitHubPagesCrawler:
 
             index_content.append("")
 
-        # Add footer
-        index_content.extend(
-            [
-                "---",
-                "",
-                f"Archive created: {datetime.now().strftime('%Y-%m-%d')}",
-                "",
-                "This memorial archive was created to preserve Mark Forster's valuable teachings for his community.",
-            ]
-        )
-
         # Write index file
         with open("index.md", "w", encoding="utf-8") as f:
             f.write("\n".join(index_content))
@@ -413,63 +402,6 @@ exclude:
 
         logger.info("Created _config.yml for GitHub Pages")
 
-    def create_search_data(self):
-        """Create search data file for JavaScript search functionality"""
-        logger.info("Creating search data file...")
-
-        search_data = []
-        for post in self.index_data:
-            # Get the content from the markdown file
-            try:
-                with open(post["file_path"], "r", encoding="utf-8") as f:
-                    content = f.read()
-                    # Extract content between front matter
-                    if "---" in content:
-                        parts = content.split("---")
-                        if len(parts) >= 3:
-                            content_text = parts[2].strip()
-                        else:
-                            content_text = content
-                    else:
-                        content_text = content
-            except Exception as e:
-                logger.warning(f"Could not read content for {post['file_path']}: {e}")
-                content_text = ""
-
-            # Create GitHub Pages URL
-            filename = os.path.basename(post["file_path"])
-            if filename.endswith(".md"):
-                filename = filename[:-3]
-
-            parts = filename.split("-", 3)
-            if len(parts) >= 4:
-                year_part, month_part, day_part, slug = parts
-                github_url = (
-                    f"/mark-forster-archive/{year_part}/{month_part}/{day_part}/{slug}/"
-                )
-            else:
-                github_url = f"/mark-forster-archive/{filename}/"
-
-            search_data.append(
-                {
-                    "title": post["title"],
-                    "date": post["date"],
-                    "author": post["author"],
-                    "url": github_url,
-                    "content": (
-                        content_text[:500] + "..."
-                        if len(content_text) > 500
-                        else content_text
-                    ),  # Truncate for performance
-                }
-            )
-
-        # Write search data as JSON
-        with open("assets/search-data.json", "w", encoding="utf-8") as f:
-            json.dump(search_data, f, indent=2, ensure_ascii=False)
-
-        logger.info(f"Created search data file with {len(search_data)} posts")
-
     def crawl_all_posts(self):
         """Main crawling function"""
         logger.info("Starting GitHub Pages archive creation...")
@@ -510,7 +442,6 @@ exclude:
         # Create GitHub Pages files
         self.create_github_pages_index()
         self.create_config_yml()
-        self.create_search_data()
 
         logger.info(f"\n🎉 Archive creation complete!")
         logger.info(f"📊 Processed {len(self.completed_urls)} posts")
