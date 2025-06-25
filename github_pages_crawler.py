@@ -311,8 +311,25 @@ class GitHubPagesCrawler:
             index_content.append("")
 
             for post in posts:
-                # Create relative path from index.md to post
-                rel_path = os.path.relpath(post["file_path"], ".")
+                # Create GitHub Pages URL with repository name
+                # Extract date and slug from file path: _posts/YYYY-MM-DD-slug.md
+                file_path = post["file_path"]
+                filename = os.path.basename(file_path)
+
+                # Parse filename to get date and slug
+                # Format: YYYY-MM-DD-slug.md
+                if filename.endswith(".md"):
+                    filename = filename[:-3]  # Remove .md extension
+
+                parts = filename.split("-", 3)  # Split into [YYYY, MM, DD, slug]
+                if len(parts) >= 4:
+                    year_part, month_part, day_part, slug = parts
+                    # Create GitHub Pages URL: /mark-forster-archive/YYYY/MM/DD/slug/
+                    github_url = f"/mark-forster-archive/{year_part}/{month_part}/{day_part}/{slug}/"
+                else:
+                    # Fallback to relative path if filename doesn't match expected format
+                    github_url = f"/mark-forster-archive/{filename}/"
+
                 comments_text = (
                     f" ({post['comments_count']} comments)"
                     if post["comments_count"] > 0
@@ -324,7 +341,7 @@ class GitHubPagesCrawler:
                     categories_text = f" - *{', '.join(post['categories'])}*"
 
                 index_content.append(
-                    f"- [{post['title']}]({rel_path}){comments_text}{categories_text}"
+                    f"- [{post['title']}]({github_url}){comments_text}{categories_text}"
                 )
 
             index_content.append("")

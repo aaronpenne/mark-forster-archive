@@ -35,13 +35,15 @@ exclude:
   - "*.py"
   - blog_post_urls.json
   - .gitignore
+  - venv/
+  - logs/
 
 # Include files
 include:
   - _posts
 
-# Theme settings
-theme: jekyll-theme-minimal
+# Theme settings - using minima for better compatibility
+theme: minima
 
 # Show excerpts on index page
 show_excerpts: true
