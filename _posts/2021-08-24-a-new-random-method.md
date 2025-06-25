@@ -1,7 +1,7 @@
 ---
 title: "A New Random Method"
 author: "Mark Forster"
-date: "Tuesday, August 24, 2021 at 8:40"
+date: "2021-08-24"
 original_url: "http://markforster.squarespace.com/blog/2021/8/24/a-new-random-method.html"
 layout: post
 ---

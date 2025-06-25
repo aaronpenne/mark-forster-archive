@@ -1,7 +1,7 @@
 ---
 title: "Autofocus 2 latest situation"
 author: "Mark Forster"
-date: "Thursday, June 25, 2009 at 9:47"
+date: "2009-06-25"
 categories: ['Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/6/25/autofocus-2-latest-situation.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Alexa Tool Bar"
 author: "Mark Forster"
-date: "Thursday, November 9, 2006 at 15:39"
+date: "2006-11-09"
 original_url: "http://markforster.squarespace.com/blog/2006/11/9/alexa-tool-bar.html"
 layout: post
 ---

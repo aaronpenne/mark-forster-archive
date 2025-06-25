@@ -1,7 +1,7 @@
 ---
 title: "And now for something completely different..."
 author: "Mark Forster"
-date: "Monday, October 15, 2012 at 10:12"
+date: "2012-10-15"
 categories: ['Articles', 'Dieting']
 original_url: "http://markforster.squarespace.com/blog/2012/10/15/and-now-for-something-completely-different.html"
 layout: post

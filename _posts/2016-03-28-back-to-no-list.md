@@ -1,7 +1,7 @@
 ---
 title: "Back to No-List"
 author: "Mark Forster"
-date: "Monday, March 28, 2016 at 7:00"
+date: "2016-03-28"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/3/28/back-to-no-list.html"
 layout: post

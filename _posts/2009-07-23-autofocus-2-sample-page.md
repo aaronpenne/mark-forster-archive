@@ -1,7 +1,7 @@
 ---
 title: "Autofocus 2 Sample Page"
 author: "Mark Forster"
-date: "Thursday, July 23, 2009 at 16:59"
+date: "2009-07-23"
 categories: ['Articles', 'Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/7/23/autofocus-2-sample-page.html"
 layout: post

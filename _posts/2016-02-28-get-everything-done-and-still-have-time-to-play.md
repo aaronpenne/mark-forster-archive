@@ -1,7 +1,7 @@
 ---
 title: "\"Get Everything Done and Still Have Time to Play\""
 author: "Mark Forster"
-date: "Sunday, February 28, 2016 at 7:00"
+date: "2016-02-28"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/2/28/get-everything-done-and-still-have-time-to-play.html"
 layout: post

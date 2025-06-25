@@ -1,7 +1,7 @@
 ---
 title: "A Great Way to Get Sacked"
 author: "Mark Forster"
-date: "Thursday, December 13, 2007 at 12:05"
+date: "2007-12-13"
 categories: ['Books']
 original_url: "http://markforster.squarespace.com/blog/2007/12/13/a-great-way-to-get-sacked.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Back to School?"
 author: "Mark Forster"
-date: "Saturday, September 16, 2006 at 18:13"
+date: "2006-09-16"
 categories: ['Life Management']
 original_url: "http://markforster.squarespace.com/blog/2006/9/16/back-to-school.html"
 layout: post

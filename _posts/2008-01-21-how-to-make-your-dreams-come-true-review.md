@@ -1,7 +1,7 @@
 ---
 title: "\"How to Make Your Dreams Come True\" Review"
 author: "Mark Forster"
-date: "Monday, January 21, 2008 at 18:23"
+date: "2008-01-21"
 categories: ['Books', 'Productivity']
 original_url: "http://markforster.squarespace.com/blog/2008/1/21/how-to-make-your-dreams-come-true-review.html"
 layout: post

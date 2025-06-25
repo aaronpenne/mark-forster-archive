@@ -1,7 +1,7 @@
 ---
 title: "A New Question - Examples"
 author: "Mark Forster"
-date: "Tuesday, January 19, 2021 at 17:43"
+date: "2021-01-19"
 original_url: "http://markforster.squarespace.com/blog/2021/1/19/a-new-question-examples.html"
 layout: post
 ---

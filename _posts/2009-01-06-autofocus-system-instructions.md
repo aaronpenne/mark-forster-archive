@@ -1,7 +1,7 @@
 ---
 title: "Autofocus system - instructions"
 author: "Mark Forster"
-date: "Tuesday, January 6, 2009 at 20:06"
+date: "2009-01-06"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2009/1/6/autofocus-system-instructions.html"
 layout: post

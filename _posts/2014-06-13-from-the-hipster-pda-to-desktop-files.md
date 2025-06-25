@@ -1,7 +1,7 @@
 ---
 title: "\"From the Hipster PDA to Desktop Files\""
 author: "Mark Forster"
-date: "Friday, June 13, 2014 at 7:09"
+date: "2014-06-13"
 original_url: "http://markforster.squarespace.com/blog/2014/6/13/from-the-hipster-pda-to-desktop-files.html"
 layout: post
 ---

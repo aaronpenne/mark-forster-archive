@@ -1,7 +1,7 @@
 ---
 title: "Amazon five-star reviews"
 author: "Mark Forster"
-date: "Saturday, January 5, 2008 at 14:39"
+date: "2008-01-05"
 categories: ['Books']
 original_url: "http://markforster.squarespace.com/blog/2008/1/5/amazon-five-star-reviews.html"
 layout: post

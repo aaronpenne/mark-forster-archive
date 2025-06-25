@@ -1,7 +1,7 @@
 ---
 title: "Attention"
 author: "Mark Forster"
-date: "Tuesday, January 15, 2008 at 12:02"
+date: "2008-01-15"
 categories: ['Business Development', 'Creativity']
 original_url: "http://markforster.squarespace.com/blog/2008/1/15/attention.html"
 layout: post

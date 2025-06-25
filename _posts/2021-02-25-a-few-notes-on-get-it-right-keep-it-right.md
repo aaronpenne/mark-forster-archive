@@ -1,7 +1,7 @@
 ---
 title: "A Few Notes on \"Get It Right, Keep It Right\""
 author: "Mark Forster"
-date: "Thursday, February 25, 2021 at 10:12"
+date: "2021-02-25"
 original_url: "http://markforster.squarespace.com/blog/2021/2/25/a-few-notes-on-get-it-right-keep-it-right.html"
 layout: post
 ---

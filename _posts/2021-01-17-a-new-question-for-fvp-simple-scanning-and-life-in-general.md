@@ -1,7 +1,7 @@
 ---
 title: "A New Question for FVP, Simple Scanning and Life in General"
 author: "Mark Forster"
-date: "Sunday, January 17, 2021 at 16:22"
+date: "2021-01-17"
 original_url: "http://markforster.squarespace.com/blog/2021/1/17/a-new-question-for-fvp-simple-scanning-and-life-in-general.html"
 layout: post
 ---

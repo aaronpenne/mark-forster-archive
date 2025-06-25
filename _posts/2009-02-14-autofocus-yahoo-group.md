@@ -1,7 +1,7 @@
 ---
 title: "Autofocus Yahoo Group"
 author: "Mark Forster"
-date: "Saturday, February 14, 2009 at 22:57"
+date: "2009-02-14"
 original_url: "http://markforster.squarespace.com/blog/2009/2/14/autofocus-yahoo-group.html"
 layout: post
 ---

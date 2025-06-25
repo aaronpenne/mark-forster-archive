@@ -1,7 +1,7 @@
 ---
 title: "A Refinement on \"Dot and Do\""
 author: "Mark Forster"
-date: "Saturday, July 16, 2016 at 7:00"
+date: "2016-07-16"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/7/16/a-refinement-on-dot-and-do.html"
 layout: post

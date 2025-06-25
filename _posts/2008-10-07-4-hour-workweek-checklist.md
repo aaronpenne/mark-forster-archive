@@ -1,7 +1,7 @@
 ---
 title: "4 Hour Workweek Checklist"
 author: "Mark Forster"
-date: "Tuesday, October 7, 2008 at 15:50"
+date: "2008-10-07"
 categories: ['Time Management', 'Tips and Tricks']
 original_url: "http://markforster.squarespace.com/blog/2008/10/7/4-hour-workweek-checklist.html"
 layout: post

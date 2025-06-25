@@ -1,7 +1,7 @@
 ---
 title: "\"Business Life\" Review"
 author: "Mark Forster"
-date: "Friday, September 29, 2006 at 18:04"
+date: "2006-09-29"
 original_url: "http://markforster.squarespace.com/blog/2006/9/29/business-life-review.html"
 layout: post
 ---

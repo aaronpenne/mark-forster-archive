@@ -1,7 +1,7 @@
 ---
 title: "100 Blogs That Will Make You More Productive"
 author: "Mark Forster"
-date: "Thursday, February 5, 2009 at 22:17"
+date: "2009-02-05"
 original_url: "http://markforster.squarespace.com/blog/2009/2/5/100-blogs-that-will-make-you-more-productive.html"
 layout: post
 ---

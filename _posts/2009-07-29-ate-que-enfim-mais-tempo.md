@@ -1,7 +1,7 @@
 ---
 title: "Ate que enfim mais tempo"
 author: "Mark Forster"
-date: "Wednesday, July 29, 2009 at 11:57"
+date: "2009-07-29"
 original_url: "http://markforster.squarespace.com/blog/2009/7/29/ate-que-enfim-mais-tempo.html"
 layout: post
 ---

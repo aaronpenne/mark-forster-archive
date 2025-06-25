@@ -1,7 +1,7 @@
 ---
 title: "An Experiment"
 author: "Mark Forster"
-date: "Sunday, March 13, 2011 at 16:00"
+date: "2011-03-13"
 categories: ['SuperFocus']
 original_url: "http://markforster.squarespace.com/blog/2011/3/13/an-experiment.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Anchored Autofocus2"
 author: "Mark Forster"
-date: "Sunday, June 25, 2017 at 13:05"
+date: "2017-06-25"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2017/6/25/anchored-autofocus2.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "All in the Mind?"
 author: "Mark Forster"
-date: "Friday, March 18, 2011 at 14:16"
+date: "2011-03-18"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2011/3/18/all-in-the-mind.html"
 layout: post

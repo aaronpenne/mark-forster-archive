@@ -1,7 +1,7 @@
 ---
 title: "A Few More FVP Stats"
 author: "Mark Forster"
-date: "Sunday, June 7, 2015 at 12:27"
+date: "2015-06-07"
 original_url: "http://markforster.squarespace.com/blog/2015/6/7/a-few-more-fvp-stats.html"
 layout: post
 ---

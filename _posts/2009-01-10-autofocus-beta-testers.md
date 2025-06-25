@@ -1,7 +1,7 @@
 ---
 title: "Autofocus Beta testers"
 author: "Mark Forster"
-date: "Saturday, January 10, 2009 at 17:29"
+date: "2009-01-10"
 categories: ['Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/1/10/autofocus-beta-testers.html"
 layout: post

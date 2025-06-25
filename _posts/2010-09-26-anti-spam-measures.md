@@ -1,7 +1,7 @@
 ---
 title: "Anti-spam measures"
 author: "Mark Forster"
-date: "Sunday, September 26, 2010 at 16:00"
+date: "2010-09-26"
 original_url: "http://markforster.squarespace.com/blog/2010/9/26/anti-spam-measures.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "100 Push-Up Challenge"
 author: "Mark Forster"
-date: "Sunday, June 12, 2011 at 12:49"
+date: "2011-06-12"
 original_url: "http://markforster.squarespace.com/blog/2011/6/12/100-push-up-challenge.html"
 layout: post
 ---

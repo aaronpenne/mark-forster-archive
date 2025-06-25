@@ -1,7 +1,7 @@
 ---
 title: "\"Secrets of Productive People\" now available for pre-order"
 author: "Mark Forster"
-date: "Tuesday, March 3, 2015 at 12:42"
+date: "2015-03-03"
 original_url: "http://markforster.squarespace.com/blog/2015/3/3/secrets-of-productive-people-now-available-for-pre-order.html"
 layout: post
 ---

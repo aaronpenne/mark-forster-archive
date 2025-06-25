@@ -1,7 +1,7 @@
 ---
 title: "\"No List\" Tag"
 author: "Mark Forster"
-date: "Sunday, April 17, 2016 at 16:22"
+date: "2016-04-17"
 original_url: "http://markforster.squarespace.com/blog/2016/4/17/no-list-tag.html"
 layout: post
 ---

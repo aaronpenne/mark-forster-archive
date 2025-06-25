@@ -1,7 +1,7 @@
 ---
 title: "A Message from Mark's Daughter Anna"
 author: "Mark Forster"
-date: "Thursday, July 23, 2015 at 15:49"
+date: "2015-07-23"
 original_url: "http://markforster.squarespace.com/blog/2015/7/23/a-message-from-marks-daughter-anna.html"
 layout: post
 ---

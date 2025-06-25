@@ -1,7 +1,7 @@
 ---
 title: "An Effective \"No List\" System? Yes!"
 author: "Mark Forster"
-date: "Sunday, February 7, 2016 at 21:33"
+date: "2016-02-07"
 original_url: "http://markforster.squarespace.com/blog/2016/2/7/an-effective-no-list-system-yes.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A New Concept: Reducing Resistance by Randomness"
 author: "Mark Forster"
-date: "Sunday, January 19, 2014 at 22:43"
+date: "2014-01-19"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2014/1/19/a-new-concept-reducing-resistance-by-randomness.html"
 layout: post

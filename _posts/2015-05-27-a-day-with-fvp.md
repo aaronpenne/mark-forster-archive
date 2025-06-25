@@ -1,7 +1,7 @@
 ---
 title: "A Day with FVP"
 author: "Mark Forster"
-date: "Wednesday, May 27, 2015 at 23:45"
+date: "2015-05-27"
 original_url: "http://markforster.squarespace.com/blog/2015/5/27/a-day-with-fvp.html"
 layout: post
 ---

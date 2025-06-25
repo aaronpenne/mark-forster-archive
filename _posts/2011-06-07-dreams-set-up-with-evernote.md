@@ -1,7 +1,7 @@
 ---
 title: "\"Dreams\" Set-Up With Evernote"
 author: "Mark Forster"
-date: "Tuesday, June 7, 2011 at 14:14"
+date: "2011-06-07"
 categories: ['Dreams']
 original_url: "http://markforster.squarespace.com/blog/2011/6/7/dreams-set-up-with-evernote.html"
 layout: post

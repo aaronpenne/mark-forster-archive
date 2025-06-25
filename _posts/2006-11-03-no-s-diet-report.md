@@ -1,7 +1,7 @@
 ---
 title: "\"No S Diet\" Report"
 author: "Mark Forster"
-date: "Friday, November 3, 2006 at 9:37"
+date: "2006-11-03"
 categories: ['Dieting', 'Road Tests']
 original_url: "http://markforster.squarespace.com/blog/2006/11/3/no-s-diet-report.html"
 layout: post

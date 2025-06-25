@@ -1,7 +1,7 @@
 ---
 title: "Autofocus: The Book Selection"
 author: "Mark Forster"
-date: "Tuesday, December 23, 2008 at 11:53"
+date: "2008-12-23"
 categories: ['Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2008/12/23/autofocus-the-book-selection.html"
 layout: post

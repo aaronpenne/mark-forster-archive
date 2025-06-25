@@ -1,7 +1,7 @@
 ---
 title: "\"Making It All Work\""
 author: "Mark Forster"
-date: "Wednesday, July 16, 2008 at 15:21"
+date: "2008-07-16"
 categories: ['Books', 'Time Management']
 original_url: "http://markforster.squarespace.com/blog/2008/7/16/making-it-all-work.html"
 layout: post

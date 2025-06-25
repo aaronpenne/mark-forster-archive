@@ -1,7 +1,7 @@
 ---
 title: "2nd Day Report on No-List Autofocus"
 author: "Mark Forster"
-date: "Wednesday, March 30, 2016 at 7:00"
+date: "2016-03-30"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/3/30/2nd-day-report-on-no-list-autofocus.html"
 layout: post

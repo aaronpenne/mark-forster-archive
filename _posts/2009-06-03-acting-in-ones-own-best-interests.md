@@ -1,7 +1,7 @@
 ---
 title: "Acting in One's Own Best Interests"
 author: "Mark Forster"
-date: "Wednesday, June 3, 2009 at 16:27"
+date: "2009-06-03"
 categories: ['Articles', 'Dreams', 'How to Make Your Dreams Come True', 'Life Management', 'Powerful Questions']
 original_url: "http://markforster.squarespace.com/blog/2009/6/3/acting-in-ones-own-best-interests.html"
 layout: post

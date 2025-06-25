@@ -1,7 +1,7 @@
 ---
 title: "Back from Holiday"
 author: "Mark Forster"
-date: "Thursday, August 2, 2007 at 18:08"
+date: "2007-08-02"
 original_url: "http://markforster.squarespace.com/blog/2007/8/2/back-from-holiday.html"
 layout: post
 ---

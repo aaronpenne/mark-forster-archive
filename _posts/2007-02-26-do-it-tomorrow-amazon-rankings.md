@@ -1,7 +1,7 @@
 ---
 title: "\"Do It Tomorrow\" Amazon Rankings"
 author: "Mark Forster"
-date: "Monday, February 26, 2007 at 14:30"
+date: "2007-02-26"
 original_url: "http://markforster.squarespace.com/blog/2007/2/26/do-it-tomorrow-amazon-rankings.html"
 layout: post
 ---

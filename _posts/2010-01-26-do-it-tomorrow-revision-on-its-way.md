@@ -1,7 +1,7 @@
 ---
 title: "\"Do It Tomorrow\" revision on its way"
 author: "Mark Forster"
-date: "Tuesday, January 26, 2010 at 13:23"
+date: "2010-01-26"
 categories: ['Do It Tomorrow']
 original_url: "http://markforster.squarespace.com/blog/2010/1/26/do-it-tomorrow-revision-on-its-way.html"
 layout: post

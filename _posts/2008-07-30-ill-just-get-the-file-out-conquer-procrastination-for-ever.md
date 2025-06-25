@@ -1,7 +1,7 @@
 ---
 title: "\"I'll Just Get the File Out”: Conquer Procrastination for Ever"
 author: "Mark Forster"
-date: "Thursday, July 31, 2008 at 12:01"
+date: "2008-07-31"
 categories: ['Articles', 'Time Management', 'Tips and Tricks']
 original_url: "http://markforster.squarespace.com/blog/2008/7/30/ill-just-get-the-file-out-conquer-procrastination-for-ever.html"
 layout: post

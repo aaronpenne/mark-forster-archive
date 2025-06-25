@@ -1,7 +1,7 @@
 ---
 title: "Autofocus"
 author: "Mark Forster"
-date: "Saturday, December 20, 2008 at 15:52"
+date: "2008-12-20"
 categories: ['Autofocus', 'Time Management']
 original_url: "http://markforster.squarespace.com/blog/2008/12/20/autofocus.html"
 layout: post

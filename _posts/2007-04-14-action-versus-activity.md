@@ -1,7 +1,7 @@
 ---
 title: "Action versus Activity"
 author: "Mark Forster"
-date: "Saturday, April 14, 2007 at 6:26"
+date: "2007-04-14"
 original_url: "http://markforster.squarespace.com/blog/2007/4/14/action-versus-activity.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Advanced \"Do It Tomorrow\" Seminar: Additional Date"
 author: "Mark Forster"
-date: "Monday, October 6, 2008 at 12:31"
+date: "2008-10-06"
 categories: ['Do It Tomorrow', 'Seminars']
 original_url: "http://markforster.squarespace.com/blog/2008/10/6/advanced-do-it-tomorrow-seminar-additional-date.html"
 layout: post

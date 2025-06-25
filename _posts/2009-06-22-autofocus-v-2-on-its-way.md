@@ -1,7 +1,7 @@
 ---
 title: "Autofocus v. 2 on its way"
 author: "Mark Forster"
-date: "Monday, June 22, 2009 at 7:01"
+date: "2009-06-22"
 categories: ['Articles', 'Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/6/22/autofocus-v-2-on-its-way.html"
 layout: post

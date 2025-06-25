@@ -1,7 +1,7 @@
 ---
 title: "An Easy Challenge Revisited"
 author: "Mark Forster"
-date: "Monday, August 14, 2006 at 16:19"
+date: "2006-08-14"
 original_url: "http://markforster.squarespace.com/blog/2006/8/14/an-easy-challenge-revisited.html"
 layout: post
 ---

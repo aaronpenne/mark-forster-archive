@@ -1,7 +1,7 @@
 ---
 title: "Another Simple and Effective Method"
 author: "Mark Forster"
-date: "Monday, May 20, 2013 at 19:23"
+date: "2013-05-20"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2013/5/20/another-simple-and-effective-method.html"
 layout: post

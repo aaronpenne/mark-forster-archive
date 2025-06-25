@@ -1,7 +1,7 @@
 ---
 title: "\"Do It Tomorrow\" Interview"
 author: "Mark Forster"
-date: "Monday, October 23, 2006 at 16:35"
+date: "2006-10-23"
 original_url: "http://markforster.squarespace.com/blog/2006/10/23/do-it-tomorrow-interview.html"
 layout: post
 ---

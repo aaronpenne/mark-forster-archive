@@ -1,7 +1,7 @@
 ---
 title: "Auditing Your Time Management"
 author: "Mark Forster"
-date: "Friday, February 29, 2008 at 12:57"
+date: "2008-02-29"
 categories: ['Articles', 'Do It Tomorrow', 'Productivity']
 original_url: "http://markforster.squarespace.com/blog/2008/2/29/auditing-your-time-management.html"
 layout: post

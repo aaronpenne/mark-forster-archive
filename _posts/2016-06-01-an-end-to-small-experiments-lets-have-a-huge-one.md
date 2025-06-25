@@ -1,7 +1,7 @@
 ---
 title: "An End to Small Experiments - Let's Have a Huge One"
 author: "Mark Forster"
-date: "Wednesday, June 1, 2016 at 7:00"
+date: "2016-06-01"
 original_url: "http://markforster.squarespace.com/blog/2016/6/1/an-end-to-small-experiments-lets-have-a-huge-one.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "... and I thought I was unique"
 author: "Mark Forster"
-date: "Tuesday, January 26, 2010 at 16:09"
+date: "2010-01-26"
 original_url: "http://markforster.squarespace.com/blog/2010/1/26/and-i-thought-i-was-unique.html"
 layout: post
 ---

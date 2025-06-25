@@ -1,7 +1,7 @@
 ---
 title: "Back to the Diet!"
 author: "Mark Forster"
-date: "Monday, March 5, 2007 at 10:46"
+date: "2007-03-05"
 categories: ['Dieting']
 original_url: "http://markforster.squarespace.com/blog/2007/3/5/back-to-the-diet.html"
 layout: post

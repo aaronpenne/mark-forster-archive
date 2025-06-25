@@ -1,7 +1,7 @@
 ---
 title: "And the Winner Is..."
 author: "Mark Forster"
-date: "Monday, June 27, 2016 at 7:00"
+date: "2016-06-27"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/6/27/and-the-winner-is.html"
 layout: post

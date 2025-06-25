@@ -1,7 +1,7 @@
 ---
 title: "Answer to the Puzzle"
 author: "Mark Forster"
-date: "Monday, July 25, 2016 at 15:40"
+date: "2016-07-25"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/7/25/answer-to-the-puzzle.html"
 layout: post

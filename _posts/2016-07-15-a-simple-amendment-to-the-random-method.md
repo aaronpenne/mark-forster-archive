@@ -1,7 +1,7 @@
 ---
 title: "A Simple Amendment to the Random Method"
 author: "Mark Forster"
-date: "Friday, July 15, 2016 at 7:00"
+date: "2016-07-15"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/7/15/a-simple-amendment-to-the-random-method.html"
 layout: post

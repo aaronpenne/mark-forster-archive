@@ -1,7 +1,7 @@
 ---
 title: "A Rest from the Diet"
 author: "Mark Forster"
-date: "Monday, February 26, 2007 at 14:13"
+date: "2007-02-26"
 categories: ['Dieting']
 original_url: "http://markforster.squarespace.com/blog/2007/2/26/a-rest-from-the-diet.html"
 layout: post

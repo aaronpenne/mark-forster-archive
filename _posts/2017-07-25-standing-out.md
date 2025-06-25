@@ -1,7 +1,7 @@
 ---
 title: "\"Standing Out\""
 author: "Mark Forster"
-date: "Tuesday, July 25, 2017 at 0:15"
+date: "2017-07-25"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2017/7/25/standing-out.html"
 layout: post

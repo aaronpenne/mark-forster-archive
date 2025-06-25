@@ -1,7 +1,7 @@
 ---
 title: "An Easy Challenge - or is it?"
 author: "Mark Forster"
-date: "Wednesday, October 4, 2006 at 14:47"
+date: "2006-10-04"
 categories: ['Life Management']
 original_url: "http://markforster.squarespace.com/blog/2006/10/4/an-easy-challenge-or-is-it.html"
 layout: post

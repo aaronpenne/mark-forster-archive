@@ -1,7 +1,7 @@
 ---
 title: "Addition to Simple Scanning Rules"
 author: "Mark Forster"
-date: "Friday, December 15, 2017 at 15:12"
+date: "2017-12-15"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2017/12/15/addition-to-simple-scanning-rules.html"
 layout: post

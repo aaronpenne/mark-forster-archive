@@ -1,7 +1,7 @@
 ---
 title: "9 Days to go - Support us for the London Bridgathon!"
 author: "Mark Forster"
-date: "Friday, September 11, 2015 at 12:47"
+date: "2015-09-11"
 original_url: "http://markforster.squarespace.com/blog/2015/9/11/9-days-to-go-support-us-for-the-london-bridgathon.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "\"Dreams\" - the underestimated book"
 author: "Mark Forster"
-date: "Thursday, February 28, 2008 at 8:48"
+date: "2008-02-28"
 categories: ['Creativity', 'Dreams', 'Getting to Your Goals']
 original_url: "http://markforster.squarespace.com/blog/2008/2/28/dreams-the-underestimated-book.html"
 layout: post

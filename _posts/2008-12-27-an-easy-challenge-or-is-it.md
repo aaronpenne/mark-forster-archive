@@ -1,7 +1,7 @@
 ---
 title: "An Easy Challenge or Is It?"
 author: "Mark Forster"
-date: "Saturday, December 27, 2008 at 17:00"
+date: "2008-12-27"
 categories: ['Articles', 'Do It Tomorrow']
 original_url: "http://markforster.squarespace.com/blog/2008/12/27/an-easy-challenge-or-is-it.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Autofocus 1 New Dismissal Rule Trial"
 author: "Mark Forster"
-date: "Wednesday, June 23, 2021 at 18:31"
+date: "2021-06-23"
 original_url: "http://markforster.squarespace.com/blog/2021/6/23/autofocus-1-new-dismissal-rule-trial.html"
 layout: post
 ---

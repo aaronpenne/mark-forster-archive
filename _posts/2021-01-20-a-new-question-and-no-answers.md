@@ -1,7 +1,7 @@
 ---
 title: "A New Question - and no answers?"
 author: "Mark Forster"
-date: "Wednesday, January 20, 2021 at 21:58"
+date: "2021-01-20"
 original_url: "http://markforster.squarespace.com/blog/2021/1/20/a-new-question-and-no-answers.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A good question"
 author: "Mark Forster"
-date: "Wednesday, February 8, 2012 at 17:22"
+date: "2012-02-08"
 categories: ['Final Version']
 original_url: "http://markforster.squarespace.com/blog/2012/2/8/a-good-question.html"
 layout: post

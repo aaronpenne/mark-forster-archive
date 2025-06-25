@@ -1,7 +1,7 @@
 ---
 title: "Another mental strength exercise"
 author: "Mark Forster"
-date: "Monday, January 23, 2012 at 19:44"
+date: "2012-01-23"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2012/1/23/another-mental-strength-exercise.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Any special recommendations for teachers? (Reader's query)"
 author: "Mark Forster"
-date: "Tuesday, February 9, 2016 at 7:00"
+date: "2016-02-09"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/2/9/any-special-recommendations-for-teachers-readers-query.html"
 layout: post

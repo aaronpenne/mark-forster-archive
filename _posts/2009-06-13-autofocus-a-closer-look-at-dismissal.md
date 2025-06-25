@@ -1,7 +1,7 @@
 ---
 title: "Autofocus: a closer look at \"dismissal\""
 author: "Mark Forster"
-date: "Saturday, June 13, 2009 at 12:01"
+date: "2009-06-13"
 categories: ['Articles', 'Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/6/13/autofocus-a-closer-look-at-dismissal.html"
 layout: post

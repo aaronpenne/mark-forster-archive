@@ -1,7 +1,7 @@
 ---
 title: "A Variation on My Current No-List System"
 author: "Mark Forster"
-date: "Tuesday, May 10, 2016 at 19:20"
+date: "2016-05-10"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/5/10/a-variation-on-my-current-no-list-system.html"
 layout: post

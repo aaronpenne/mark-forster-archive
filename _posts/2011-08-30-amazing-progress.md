@@ -1,7 +1,7 @@
 ---
 title: "Amazing Progress"
 author: "Mark Forster"
-date: "Tuesday, August 30, 2011 at 22:53"
+date: "2011-08-30"
 categories: ['Final Version']
 original_url: "http://markforster.squarespace.com/blog/2011/8/30/amazing-progress.html"
 layout: post

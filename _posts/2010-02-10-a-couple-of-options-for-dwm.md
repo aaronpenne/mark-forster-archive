@@ -1,7 +1,7 @@
 ---
 title: "A couple of options for DWM"
 author: "Mark Forster"
-date: "Wednesday, February 10, 2010 at 15:37"
+date: "2010-02-10"
 categories: ['DWM']
 original_url: "http://markforster.squarespace.com/blog/2010/2/10/a-couple-of-options-for-dwm.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Another Experiment"
 author: "Mark Forster"
-date: "Monday, December 14, 2020 at 15:00"
+date: "2020-12-14"
 original_url: "http://markforster.squarespace.com/blog/2020/12/14/another-experiment.html"
 layout: post
 ---

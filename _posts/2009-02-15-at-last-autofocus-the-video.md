@@ -1,7 +1,7 @@
 ---
 title: "AT LAST: Autofocus - the Video!!"
 author: "Mark Forster"
-date: "Sunday, February 15, 2009 at 22:01"
+date: "2009-02-15"
 original_url: "http://markforster.squarespace.com/blog/2009/2/15/at-last-autofocus-the-video.html"
 layout: post
 ---

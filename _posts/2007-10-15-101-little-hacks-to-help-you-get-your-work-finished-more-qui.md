@@ -1,7 +1,7 @@
 ---
 title: "101 Little Hacks to Help You Get Your Work Finished More Quickly"
 author: "Mark Forster"
-date: "Monday, October 15, 2007 at 10:06"
+date: "2007-10-15"
 categories: ['Tips and Tricks']
 original_url: "http://markforster.squarespace.com/blog/2007/10/15/101-little-hacks-to-help-you-get-your-work-finished-more-qui.html"
 layout: post

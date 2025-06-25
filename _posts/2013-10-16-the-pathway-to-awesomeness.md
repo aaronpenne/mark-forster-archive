@@ -1,7 +1,7 @@
 ---
 title: "\"The Pathway to Awesomeness\""
 author: "Mark Forster"
-date: "Wednesday, October 16, 2013 at 14:55"
+date: "2013-10-16"
 original_url: "http://markforster.squarespace.com/blog/2013/10/16/the-pathway-to-awesomeness.html"
 layout: post
 ---

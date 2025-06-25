@@ -1,7 +1,7 @@
 ---
 title: "\"How To Make Your Dreams Come True\""
 author: "Mark Forster"
-date: "Thursday, June 2, 2011 at 16:55"
+date: "2011-06-02"
 categories: ['Dreams']
 original_url: "http://markforster.squarespace.com/blog/2011/6/2/how-to-make-your-dreams-come-true.html"
 layout: post

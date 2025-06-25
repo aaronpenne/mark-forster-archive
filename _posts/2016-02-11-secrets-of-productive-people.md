@@ -1,7 +1,7 @@
 ---
 title: "\"Secrets of Productive People\""
 author: "Mark Forster"
-date: "Thursday, February 11, 2016 at 7:01"
+date: "2016-02-11"
 original_url: "http://markforster.squarespace.com/blog/2016/2/11/secrets-of-productive-people.html"
 layout: post
 ---

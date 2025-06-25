@@ -1,7 +1,7 @@
 ---
 title: "\"Do It Tomorrow\" Rankings"
 author: "Mark Forster"
-date: "Thursday, February 21, 2008 at 14:50"
+date: "2008-02-21"
 categories: ['Books']
 original_url: "http://markforster.squarespace.com/blog/2008/2/21/do-it-tomorrow-rankings.html"
 layout: post

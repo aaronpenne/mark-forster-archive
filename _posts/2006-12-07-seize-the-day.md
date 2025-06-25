@@ -1,7 +1,7 @@
 ---
 title: "\"Seize the Day\""
 author: "Mark Forster"
-date: "Thursday, December 7, 2006 at 14:18"
+date: "2006-12-07"
 original_url: "http://markforster.squarespace.com/blog/2006/12/7/seize-the-day.html"
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Autofocus compared to DIT"
 author: "Mark Forster"
-date: "Sunday, January 11, 2009 at 14:03"
+date: "2009-01-11"
 categories: ['Articles', 'Autofocus', 'Do It Tomorrow']
 original_url: "http://markforster.squarespace.com/blog/2009/1/11/autofocus-compared-to-dit.html"
 layout: post

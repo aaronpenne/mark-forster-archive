@@ -1,7 +1,7 @@
 ---
 title: "Authorised Projects List"
 author: "Mark Forster"
-date: "Saturday, February 20, 2016 at 7:00"
+date: "2016-02-20"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/2/20/authorised-projects-list.html"
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "A Thought About Procrastination"
 author: "Mark Forster"
-date: "Sunday, July 10, 2016 at 7:00"
+date: "2016-07-10"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2016/7/10/a-thought-about-procrastination.html"
 layout: post

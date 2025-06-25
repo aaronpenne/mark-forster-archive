@@ -1,7 +1,7 @@
 ---
 title: "Autofocus 2 Time Management System (AF2)"
 author: "Mark Forster"
-date: "Saturday, June 27, 2009 at 12:00"
+date: "2009-06-27"
 categories: ['Articles', 'Autofocus']
 original_url: "http://markforster.squarespace.com/blog/2009/6/27/autofocus-2-time-management-system-af2.html"
 layout: post

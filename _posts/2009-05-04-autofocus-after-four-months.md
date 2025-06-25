@@ -1,7 +1,7 @@
 ---
 title: "Autofocus after four months"
 author: "Mark Forster"
-date: "Monday, May 4, 2009 at 15:17"
+date: "2009-05-04"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2009/5/4/autofocus-after-four-months.html"
 layout: post

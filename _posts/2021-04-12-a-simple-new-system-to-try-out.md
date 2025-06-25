@@ -1,7 +1,7 @@
 ---
 title: "A Simple New System to Try Out"
 author: "Mark Forster"
-date: "Monday, April 12, 2021 at 11:45"
+date: "2021-04-12"
 original_url: "http://markforster.squarespace.com/blog/2021/4/12/a-simple-new-system-to-try-out.html"
 layout: post
 ---

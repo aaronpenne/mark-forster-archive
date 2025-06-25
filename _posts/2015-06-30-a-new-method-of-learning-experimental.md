@@ -1,7 +1,7 @@
 ---
 title: "A New Method of Learning [Experimental]"
 author: "Mark Forster"
-date: "Tuesday, June 30, 2015 at 19:02"
+date: "2015-06-30"
 categories: ['Articles']
 original_url: "http://markforster.squarespace.com/blog/2015/6/30/a-new-method-of-learning-experimental.html"
 layout: post

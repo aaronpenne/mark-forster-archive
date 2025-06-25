@@ -1,7 +1,7 @@
 ---
 title: "A New Random Method - Follow Up #1"
 author: "Mark Forster"
-date: "Wednesday, August 25, 2021 at 9:46"
+date: "2021-08-25"
 original_url: "http://markforster.squarespace.com/blog/2021/8/25/a-new-random-method-follow-up-1.html"
 layout: post
 ---
