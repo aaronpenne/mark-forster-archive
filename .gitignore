@@ -1,0 +1,43 @@
+# Logs and progress files
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+blog_post_urls.json
+requirements.txt
+url_extractor.py
+post_extractor.py
+crawler.py
+github_pages_crawler.py
+link_converter.py
+
+# Claude Code workspace files
+.claude/
