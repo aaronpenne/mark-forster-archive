@@ -62,30 +62,43 @@ class PostExtractor:
             raise
 
     def html_to_markdown(self, html_content):
-        """Convert HTML content to markdown while preserving formatting using markdownify"""
+        """Convert HTML content to markdown while preserving formatting"""
         if not html_content:
             return ""
 
-        # Use markdownify for better HTML to markdown conversion
-        # Configure markdownify options for better preservation
+        # Parse HTML with BeautifulSoup
+        soup = BeautifulSoup(html_content, "lxml")
+
+        # Convert <p> tags to proper markdown paragraphs with double line breaks
+        for p in soup.find_all("p"):
+            # Get the text content and convert any remaining HTML within the paragraph
+            p_content = str(p)
+            # Use markdownify for the paragraph content
+            p_markdown = md(
+                p_content,
+                heading_style="ATX",
+                bullets="-",
+                strong_em_symbol="*",
+                code_language="",
+                strip=["script", "style"],
+                wrap=False,
+            )
+            # Replace the p tag with its markdown content plus double line breaks
+            p.replace_with(p_markdown + "\n\n")
+
+        # Convert remaining HTML elements using markdownify
+        remaining_html = str(soup)
         markdown_text = md(
-            html_content,
-            heading_style="ATX",  # Use # style headings
-            bullets="-",  # Use - for unordered lists
-            strong_em_symbol="*",  # Use * for bold/italic
-            code_language="",  # No language specification
-            strip=["script", "style"],  # Remove script and style tags
+            remaining_html,
+            heading_style="ATX",
+            bullets="-",
+            strong_em_symbol="*",
+            code_language="",
+            strip=["script", "style"],
             wrap=False,
-        )  # Don't wrap lines
+        )
 
-        # Clean up any excessive whitespace but preserve intentional formatting
-        markdown_text = re.sub(
-            r"\n\s*\n\s*\n+", "\n\n", markdown_text
-        )  # Collapse multiple line breaks to double
-        markdown_text = re.sub(
-            r"^\s+|\s+$", "", markdown_text, flags=re.MULTILINE
-        )  # Strip leading/trailing space from lines
-
+        # No post-processing - return exactly what markdownify produces
         return markdown_text.strip()
 
     def clean_text(self, text, preserve_formatting=False):
