@@ -1,153 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-      {%- if page.title -%}
-        {{ page.title }} - {{ site.title }}
-      {%- else -%}
-        {{ site.title }}
-      {%- endif -%}
-    </title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
-    
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-    
-    <style>
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        line-height: 1.6;
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 20px;
-      }
-      .site-header {
-        border-bottom: 1px solid #e1e4e8;
-        padding-bottom: 20px;
-        margin-bottom: 30px;
-      }
-      .site-title {
-        font-size: 2em;
-        font-weight: bold;
-        text-decoration: none;
-        color: #24292e;
-      }
-      .post-header {
-        margin-bottom: 30px;
-      }
-      .post-title {
-        font-size: 2em;
-        margin-bottom: 10px;
-      }
-      .post-meta {
-        color: #586069;
-        font-size: 0.9em;
-      }
-      .post-content {
-        margin-bottom: 30px;
-      }
-      .post-footer {
-        border-top: 1px solid #e1e4e8;
-        padding-top: 20px;
-        color: #586069;
-        font-size: 0.9em;
-      }
-      .post-navigation {
-        display: flex;
-        justify-content: space-between;
-        margin: 40px 0;
-        padding: 20px 0;
-        border-top: 1px solid #e1e4e8;
-        border-bottom: 1px solid #e1e4e8;
-      }
-      .nav-previous, .nav-next {
-        flex: 1;
-      }
-      .nav-next {
-        text-align: right;
-      }
-      .nav-previous a, .nav-next a {
-        color: #0366d6;
-        text-decoration: none;
-        font-weight: 500;
-      }
-      .nav-previous a:hover, .nav-next a:hover {
-        text-decoration: underline;
-      }
-      .search-container {
-        margin: 20px 0;
-        padding: 20px;
-        background: #f6f8fa;
-        border-radius: 6px;
-      }
-      .search-input {
-        width: 100%;
-        padding: 10px;
-        border: 1px solid #d1d5da;
-        border-radius: 6px;
-        font-size: 16px;
-        margin-bottom: 10px;
-      }
-      .search-input:focus {
-        outline: none;
-        border-color: #0366d6;
-        box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.1);
-      }
-      .search-results {
-        max-height: 400px;
-        overflow-y: auto;
-        border: 1px solid #e1e4e8;
-        border-radius: 6px;
-        background: white;
-      }
-      .search-result {
-        padding: 10px 15px;
-        border-bottom: 1px solid #e1e4e8;
-        text-decoration: none;
-        color: #24292e;
-        display: block;
-      }
-      .search-result:hover {
-        background: #f6f8fa;
-      }
-      .search-result:last-child {
-        border-bottom: none;
-      }
-      .search-result-title {
-        font-weight: 600;
-        margin-bottom: 5px;
-      }
-      .search-result-date {
-        font-size: 0.9em;
-        color: #586069;
-      }
-      .hidden {
-        display: none;
-      }
-      a {
-        color: #0366d6;
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
-      }
-    </style>
-  </head>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
 
   <body>
-    <header class="site-header">
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    </header>
 
-    <main class="page-content">
-      {{ content }}
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </main>
 
-    <footer class="site-footer">
-      <p>{{ site.description | escape }}</p>
-    </footer>
+    {%- include footer.html -%}
+
   </body>
+
 </html> 

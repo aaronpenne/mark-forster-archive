@@ -26,7 +26,8 @@ layout: default
           >{{ page.author }}</span
         ></span
       >
-      {%- endif -%}
+      {%- endif -%} {%- if page.categories -%} • Categories: {{ page.categories
+      | join: ", " }} {%- endif -%}
     </p>
   </header>
 
@@ -53,7 +54,7 @@ layout: default
       <small
         >Original post:
         <a href="{{ page.original_url }}" target="_blank"
-          >View on original site</a
+          >{{ page.original_url }}</a
         ></small
       >
     </p>
