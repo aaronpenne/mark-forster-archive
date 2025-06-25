@@ -11,7 +11,6 @@ A longer (51 minute) version can be accessed [here.](http://www.academicproducti
 
 ## Comments
 
-### Comment 1
 **Author:** J
 **Date:** 2006-10-23
 
@@ -22,7 +21,6 @@ It can also be listened online as a stream (if you don't want to download a larg
 
 ---
 
-### Comment 2
 **Author:** Mark Forster
 **Date:** 2006-10-23
 

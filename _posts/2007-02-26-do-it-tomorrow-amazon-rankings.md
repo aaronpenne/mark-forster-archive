@@ -16,7 +16,6 @@ And of course if you haven’t read the book, then you can [order it here](http:
 
 ## Comments
 
-### Comment 1
 **Author:** Bryan
 **Date:** 2007-02-26
 
@@ -26,7 +25,6 @@ Most of it is favorable, too :-)
 
 ---
 
-### Comment 2
 **Author:** Mark Forster
 **Date:** 2007-02-27
 
