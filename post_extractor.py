@@ -95,13 +95,20 @@ class PostExtractor:
                 if cleaned != element:
                     element.replace_with(cleaned)
 
-        # Convert <p> tags to proper markdown paragraphs with double line breaks
+        # Direct approach: process each paragraph separately to preserve structure
+        paragraphs = []
+
+        # Find all paragraph elements
         for p in soup.find_all("p"):
-            # Get the text content and convert any remaining HTML within the paragraph
-            p_content = str(p)
-            # Use markdownify for the paragraph content
-            p_markdown = md(
-                p_content,
+            p_text = p.get_text().strip()
+            if p_text:  # Only include non-empty paragraphs
+                paragraphs.append(p_text)
+
+        # If no paragraphs found, try to extract content from other elements
+        if not paragraphs:
+            # Fallback: use markdownify on the entire content
+            markdown_text = md(
+                str(soup),
                 heading_style="ATX",
                 bullets="-",
                 strong_em_symbol="*",
@@ -109,22 +116,51 @@ class PostExtractor:
                 strip=["script", "style"],
                 wrap=False,
             )
-            # Replace the p tag with its markdown content plus double line breaks
-            p.replace_with(p_markdown + "\n\n")
+            return markdown_text.strip()
 
-        # Convert remaining HTML elements using markdownify
+        # Join paragraphs with double line breaks to preserve structure
+        markdown_text = "\n\n".join(paragraphs)
+
+        # Handle any remaining HTML elements that might contain lists, headings, etc.
+        # Remove paragraph elements from soup to avoid double processing
+        for p in soup.find_all("p"):
+            p.decompose()
+
+        # Process remaining HTML elements
         remaining_html = str(soup)
-        markdown_text = md(
-            remaining_html,
-            heading_style="ATX",
-            bullets="-",
-            strong_em_symbol="*",
-            code_language="",
-            strip=["script", "style"],
-            wrap=False,
+        if remaining_html.strip():
+            # Convert remaining HTML to markdown
+            remaining_md = md(
+                remaining_html,
+                heading_style="ATX",
+                bullets="-",
+                strong_em_symbol="*",
+                code_language="",
+                strip=["script", "style"],
+                wrap=False,
+            )
+
+            # Combine paragraph content with remaining content
+            if remaining_md.strip():
+                markdown_text = markdown_text + "\n\n" + remaining_md.strip()
+
+        # Final cleanup
+        # Clean up excessive line breaks (more than 2 consecutive)
+        markdown_text = re.sub(r"\n{3,}", "\n\n", markdown_text)
+
+        # Ensure proper spacing around list items
+        markdown_text = re.sub(
+            r"(\n\d+\.\s)", r"\n\n\1", markdown_text
+        )  # Numbered lists
+        markdown_text = re.sub(r"(\n-\s)", r"\n\n\1", markdown_text)  # Bullet lists
+
+        # Remove excessive blank lines around numbered lists while preserving structure
+        # This handles the case where we have multiple blank lines before/after numbered items
+        markdown_text = re.sub(r"\n\n+(\d+\.\s)", r"\n\n\1", markdown_text)
+        markdown_text = re.sub(
+            r"(\d+\.\s.*?)\n\n+", r"\1\n\n", markdown_text, flags=re.DOTALL
         )
 
-        # No post-processing - return exactly what markdownify produces
         return markdown_text.strip()
 
     def clean_text(self, text, preserve_formatting=False):
