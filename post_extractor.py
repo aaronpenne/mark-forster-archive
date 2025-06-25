@@ -119,6 +119,7 @@ class PostExtractor:
             return markdown_text.strip()
 
         # Join paragraphs with double line breaks to preserve structure
+        # This ensures each paragraph renders as a separate block in Jekyll/GitHub Pages
         markdown_text = "\n\n".join(paragraphs)
 
         # Handle any remaining HTML elements that might contain lists, headings, etc.
@@ -144,22 +145,26 @@ class PostExtractor:
             if remaining_md.strip():
                 markdown_text = markdown_text + "\n\n" + remaining_md.strip()
 
-        # Final cleanup
-        # Clean up excessive line breaks (more than 2 consecutive)
+        # Post-process to ensure proper Jekyll/GitHub Pages rendering
+        # Replace single line breaks with double line breaks for proper rendering
+        # This ensures that each paragraph/list item renders as a separate block
+
+        # First, normalize any existing double line breaks
         markdown_text = re.sub(r"\n{3,}", "\n\n", markdown_text)
 
-        # Ensure proper spacing around list items
-        markdown_text = re.sub(
-            r"(\n\d+\.\s)", r"\n\n\1", markdown_text
-        )  # Numbered lists
-        markdown_text = re.sub(r"(\n-\s)", r"\n\n\1", markdown_text)  # Bullet lists
+        # Ensure numbered lists have proper spacing
+        # Add double line breaks before numbered list items
+        markdown_text = re.sub(r"(\n)(\d+\.\s)", r"\1\n\2", markdown_text)
 
-        # Remove excessive blank lines around numbered lists while preserving structure
-        # This handles the case where we have multiple blank lines before/after numbered items
-        markdown_text = re.sub(r"\n\n+(\d+\.\s)", r"\n\n\1", markdown_text)
-        markdown_text = re.sub(
-            r"(\d+\.\s.*?)\n\n+", r"\1\n\n", markdown_text, flags=re.DOTALL
-        )
+        # Ensure bullet lists have proper spacing
+        # Add double line breaks before bullet list items
+        markdown_text = re.sub(r"(\n)(-\s)", r"\1\n\2", markdown_text)
+
+        # Handle special cases like "OR" separators - ensure they have proper spacing
+        markdown_text = re.sub(r"(\n)(OR)(\n)", r"\1\n\2\n\3", markdown_text)
+
+        # Clean up any excessive line breaks (more than 2 consecutive)
+        markdown_text = re.sub(r"\n{3,}", "\n\n", markdown_text)
 
         return markdown_text.strip()
 
