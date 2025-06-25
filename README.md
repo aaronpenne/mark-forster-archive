@@ -1,6 +1,6 @@
 # Mark Forster Archive
 
-A comprehensive memorial archive of Mark Forster's productivity blog, preserving his influential work on time management systems like Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).
+A comprehensive archive of Mark Forster's productivity blog, preserving his influential work on time management systems like Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).
 
 ## 🌐 View the Archive
 
@@ -18,7 +18,7 @@ A comprehensive memorial archive of Mark Forster's productivity blog, preserving
 - [**"Dreams" - The Underestimated Book**](https://aaronpenne.github.io/mark-forster-archive/2008/02/28/dreams-the-underestimated-book/)
 - [**Secrets of Productive People**](https://aaronpenne.github.io/mark-forster-archive/2016/02/11/secrets-of-productive-people/)
 - [**100 Little Hacks to Get Work Finished**](https://aaronpenne.github.io/mark-forster-archive/2007/10/15/101-little-hacks-to-help-you-get-your-work-finished-more-qui/)
-- [**A Message from Mark's Daughter Anna**](https://aaronpenne.github.io/mark-forster-archive/2015/07/23/a-message-from-marks-daughter-anna/) *(memorial)*
+- [**A Message from Mark's Daughter Anna**](https://aaronpenne.github.io/mark-forster-archive/2015/07/23/a-message-from-marks-daughter-anna/)
 
 ### Categories
 - **Articles** - Core productivity content
@@ -40,20 +40,53 @@ A comprehensive memorial archive of Mark Forster's productivity blog, preserving
 - **Browse by date**: Posts organized chronologically on the website
 - **Search by topic**: Use GitHub's search or browse categories
 - **Follow links**: Internal post references link to archived versions
-- **Original URLs**: Each post includes link to original (archived)
+- **Original URLs**: Each post includes link to original
 
 ## 💾 For Developers
 
-The archive is built with a custom crawler that preserves formatting and creates interconnected markdown files:
-
-```bash
-# View the generation code
-git log --oneline  # See archive creation process
+### Project Structure
+```
+mark-forster-archive/
+├── _posts/                    # All blog posts in Jekyll format
+├── _layouts/                  # Jekyll templates
+├── _config.yml               # Jekyll configuration
+├── crawler.py                # Main web crawler script
+├── post_extractor.py         # Content extraction logic
+├── link_converter.py         # URL processing utilities
+├── blog_post_urls.json       # Complete URL index
+└── requirements.txt          # Python dependencies
 ```
 
-All posts are in `_posts/` directory in Jekyll format: `YYYY-MM-DD-title.md`
+### Key Scripts
+- **crawler.py**: Main crawler that extracts posts from markforster.squarespace.com
+- **post_extractor.py**: Parses individual blog posts and extracts content/comments
+- **link_converter.py**: Converts internal links to work with archived structure
+
+### Running Locally
+```bash
+# Install Jekyll (if not already installed)
+gem install jekyll bundler
+
+# Serve locally
+jekyll serve
+
+# Build for production
+jekyll build
+```
+
+### Content Format
+All posts are stored in `_posts/` with Jekyll front matter:
+```yaml
+---
+title: "Post Title"
+author: "Mark Forster"
+date: "Monday, August 14, 2006 at 16:19"
+original_url: "http://markforster.squarespace.com/blog/2006/8/14/post-title.html"
+layout: post
+---
+```
 
 ---
 
-**Original site**: markforster.squarespace.com (no longer maintained)  
-**Archive created**: 2025 as a community memorial project
+**Original site**: markforster.squarespace.com 
+**Archive created**: 2025 as a community project
