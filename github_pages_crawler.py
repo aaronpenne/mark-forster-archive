@@ -232,7 +232,6 @@ class GitHubPagesCrawler:
             content.append("")
 
             for i, comment in enumerate(comments, 1):
-                content.append(f"### Comment {i}")
                 if comment.get("author"):
                     content.append(f"**Author:** {comment['author']}")
                 if comment.get("date"):
