@@ -3,34 +3,128 @@ title: Mark Forster Archive
 layout: home
 ---
 
-This archive preserves 27 blog posts and their comments from Mark Forster's productivity blog.
+This archive preserves 121 blog posts and their comments from Mark Forster's productivity blog.
 
 Mark Forster was a renowned productivity expert and author who developed several influential time management systems including Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).
 
+- [A New Random Method - Follow Up #1](/mark-forster-archive/2021/08/25/a-new-random-method-follow-up-1/)
+- [A New Random Method](/mark-forster-archive/2021/08/24/a-new-random-method/)
+- [Autofocus 1 New Dismissal Rule Trial](/mark-forster-archive/2021/06/23/autofocus-1-new-dismissal-rule-trial/)
+- [Autofocus Revisit Continued](/mark-forster-archive/2021/05/18/autofocus-revisit-continued/)
+- [A Simple New System to Try Out](/mark-forster-archive/2021/04/12/a-simple-new-system-to-try-out/)
+- [Untitled](/mark-forster-archive/2021/04/03/an-exercise-for-building-willpower/)
+- [A Few Notes on \](/mark-forster-archive/2021/02/25/a-few-notes-on-get-it-right-keep-it-right/)
 - [\](/mark-forster-archive/2021/02/17/get-it-right-keep-it-right-progress-reports/)
+- [A New Question - and no answers?](/mark-forster-archive/2021/01/20/a-new-question-and-no-answers/)
+- [A New Question - Examples](/mark-forster-archive/2021/01/19/a-new-question-examples/)
+- [A New Question for FVP, Simple Scanning and Life in General](/mark-forster-archive/2021/01/17/a-new-question-for-fvp-simple-scanning-and-life-in-general/)
+- [Another Experiment](/mark-forster-archive/2020/12/14/another-experiment/)
+- [A Simple Vocabulary Memorization Method](/mark-forster-archive/2018/07/03/a-simple-vocabulary-memorization-method/) - *Articles*
+- [An interesting link](/mark-forster-archive/2018/02/12/an-interesting-link/)
+- [Addition to Simple Scanning Rules](/mark-forster-archive/2017/12/15/addition-to-simple-scanning-rules/) - *Articles*
 - [\](/mark-forster-archive/2017/07/25/standing-out/) - *Articles*
+- [Anchored Autofocus2](/mark-forster-archive/2017/06/25/anchored-autofocus2/) - *Articles*
+- [Answer to the Puzzle](/mark-forster-archive/2016/07/25/answer-to-the-puzzle/) - *Articles*
+- [A Refinement on \](/mark-forster-archive/2016/07/16/a-refinement-on-dot-and-do/) - *Articles*
+- [A Simple Amendment to the Random Method](/mark-forster-archive/2016/07/15/a-simple-amendment-to-the-random-method/) - *Articles*
+- [A Thought About Procrastination](/mark-forster-archive/2016/07/10/a-thought-about-procrastination/) - *Articles*
+- [An End to Small Experiments - Let's Have a Huge One](/mark-forster-archive/2016/06/01/an-end-to-small-experiments-lets-have-a-huge-one/)
+- [Untitled](/mark-forster-archive/2016/05/30/bank-holiday-thoughts/)
+- [A Second Variation on My No-List System](/mark-forster-archive/2016/05/15/a-second-variation-on-my-no-list-system/) - *Articles*
+- [A Variation on My Current No-List System](/mark-forster-archive/2016/05/10/a-variation-on-my-current-no-list-system/) - *Articles*
 - [\](/mark-forster-archive/2016/04/17/no-list-tag/)
+- [3rd Day Report on No-List Autofocus](/mark-forster-archive/2016/03/31/3rd-day-report-on-no-list-autofocus/) - *Articles*
+- [2nd Day Report on No-List Autofocus](/mark-forster-archive/2016/03/30/2nd-day-report-on-no-list-autofocus/) - *Articles*
+- [Back to No-List](/mark-forster-archive/2016/03/28/back-to-no-list/) - *Articles*
 - [\](/mark-forster-archive/2016/02/28/get-everything-done-and-still-have-time-to-play/) - *Articles*
+- [Authorised Projects List](/mark-forster-archive/2016/02/20/authorised-projects-list/) - *Articles*
 - [\](/mark-forster-archive/2016/02/11/secrets-of-productive-people/)
+- [Any special recommendations for teachers? (Reader's query)](/mark-forster-archive/2016/02/09/any-special-recommendations-for-teachers-readers-query/) - *Articles*
+- [An Effective \](/mark-forster-archive/2016/02/07/an-effective-no-list-system-yes/)
 - [\](/mark-forster-archive/2016/02/02/articles-category/)
+- [9 Days to go - Support us for the London Bridgathon!](/mark-forster-archive/2015/09/11/9-days-to-go-support-us-for-the-london-bridgathon/)
+- [A Message from Mark's Daughter Anna](/mark-forster-archive/2015/07/23/a-message-from-marks-daughter-anna/)
+- [A New Method of Learning [Experimental]](/mark-forster-archive/2015/06/30/a-new-method-of-learning-experimental/) - *Articles*
+- [A Few More FVP Stats](/mark-forster-archive/2015/06/07/a-few-more-fvp-stats/)
+- [A Day with FVP](/mark-forster-archive/2015/05/27/a-day-with-fvp/)
 - [\](/mark-forster-archive/2015/03/03/secrets-of-productive-people-now-available-for-pre-order/)
 - [\](/mark-forster-archive/2014/06/13/from-the-hipster-pda-to-desktop-files/)
+- [A New Concept: Reducing Resistance by Randomness](/mark-forster-archive/2014/01/19/a-new-concept-reducing-resistance-by-randomness/) - *Articles*
 - [\](/mark-forster-archive/2013/10/16/the-pathway-to-awesomeness/)
+- [A Simple and Powerful Method](/mark-forster-archive/2013/06/09/a-simple-and-powerful-method/) - *Articles*
+- [Another Simple and Effective Method](/mark-forster-archive/2013/05/20/another-simple-and-effective-method/) - *Articles*
+- [And now for something completely different...](/mark-forster-archive/2012/10/15/and-now-for-something-completely-different/) - *Articles, Dieting*
+- [Another good question](/mark-forster-archive/2012/02/23/another-good-question/) - *Articles, DWM, Final Version*
+- [Autofocus 1 now in Romanian](/mark-forster-archive/2012/02/22/autofocus-1-now-in-romanian/) - *Autofocus*
+- [A good question](/mark-forster-archive/2012/02/08/a-good-question/) - *Final Version*
+- [Bethany explains it all](/mark-forster-archive/2012/02/03/bethany-explains-it-all/) - *Beeminder*
+- [Beeminder Goals Report](/mark-forster-archive/2012/02/02/beeminder-goals-report/) - *Beeminder, Getting to Your Goals*
+- [Beeminder.com for keeping your goals going](/mark-forster-archive/2012/01/29/beemindercom-for-keeping-your-goals-going/) - *Beeminder, Getting to Your Goals*
+- [Another mental strength exercise](/mark-forster-archive/2012/01/23/another-mental-strength-exercise/) - *Articles*
+- [Amazing Progress](/mark-forster-archive/2011/08/30/amazing-progress/) - *Final Version*
+- [100 Push-Up Challenge](/mark-forster-archive/2011/06/12/100-push-up-challenge/)
 - [\](/mark-forster-archive/2011/06/07/dreams-set-up-with-evernote/) - *Dreams*
 - [\](/mark-forster-archive/2011/06/02/how-to-make-your-dreams-come-true/) - *Dreams*
+- [All in the Mind?](/mark-forster-archive/2011/03/18/all-in-the-mind/) - *Articles*
+- [An Experiment](/mark-forster-archive/2011/03/13/an-experiment/) - *SuperFocus*
+- [Anti-spam measures](/mark-forster-archive/2010/09/26/anti-spam-measures/)
+- [A couple of options for DWM](/mark-forster-archive/2010/02/10/a-couple-of-options-for-dwm/) - *DWM*
 - [\](/mark-forster-archive/2010/01/26/do-it-tomorrow-revision-on-its-way/) - *Do It Tomorrow*
+- [... and I thought I was unique](/mark-forster-archive/2010/01/26/and-i-thought-i-was-unique/)
+- [Untitled](/mark-forster-archive/2009/09/07/af4-news/)
+- [Backlog Method](/mark-forster-archive/2009/08/31/backlog-method/) - *Articles*
+- [Ate que enfim mais tempo](/mark-forster-archive/2009/07/29/ate-que-enfim-mais-tempo/)
+- [Autofocus 2 Sample Page](/mark-forster-archive/2009/07/23/autofocus-2-sample-page/) - *Articles, Autofocus*
+- [Autofocus 2 Time Management System (AF2)](/mark-forster-archive/2009/06/27/autofocus-2-time-management-system-af2/) - *Articles, Autofocus*
+- [Autofocus 2 latest situation](/mark-forster-archive/2009/06/25/autofocus-2-latest-situation/) - *Autofocus*
+- [Autofocus v. 2 on its way](/mark-forster-archive/2009/06/22/autofocus-v-2-on-its-way/) - *Articles, Autofocus*
+- [Autofocus: a closer look at \](/mark-forster-archive/2009/06/13/autofocus-a-closer-look-at-dismissal/) - *Articles, Autofocus*
+- [Back to Autofocus](/mark-forster-archive/2009/06/12/back-to-autofocus/) - *Articles, Autofocus, Getting to Your Goals, Time Management*
+- [Acting in One's Own Best Interests](/mark-forster-archive/2009/06/03/acting-in-ones-own-best-interests/) - *Articles, Dreams, How to Make Your Dreams Come True, Life Management, Powerful Questions*
+- [Autofocus after four months](/mark-forster-archive/2009/05/04/autofocus-after-four-months/) - *Articles*
+- [AT LAST: Autofocus - the Video!!](/mark-forster-archive/2009/02/15/at-last-autofocus-the-video/)
+- [Autofocus Yahoo Group](/mark-forster-archive/2009/02/14/autofocus-yahoo-group/)
+- [100 Blogs That Will Make You More Productive](/mark-forster-archive/2009/02/05/100-blogs-that-will-make-you-more-productive/)
+- [Autofocus compared to DIT](/mark-forster-archive/2009/01/11/autofocus-compared-to-dit/) - *Articles, Autofocus, Do It Tomorrow*
+- [Autofocus Beta testers](/mark-forster-archive/2009/01/10/autofocus-beta-testers/) - *Autofocus*
 - [\](/mark-forster-archive/2009/01/08/this-email-has-been-autofocused/) - *Autofocus*
+- [Autofocus system - instructions](/mark-forster-archive/2009/01/06/autofocus-system-instructions/) - *Articles*
+- [An Easy Challenge or Is It?](/mark-forster-archive/2008/12/27/an-easy-challenge-or-is-it/) - *Articles, Do It Tomorrow*
+- [Autofocus: The Book Selection](/mark-forster-archive/2008/12/23/autofocus-the-book-selection/) - *Autofocus*
+- [Autofocus](/mark-forster-archive/2008/12/20/autofocus/) - *Autofocus, Time Management*
+- [4 Hour Workweek Checklist](/mark-forster-archive/2008/10/07/4-hour-workweek-checklist/) - *Time Management, Tips and Tricks*
+- [Advanced \](/mark-forster-archive/2008/10/06/advanced-do-it-tomorrow-seminar-additional-date/) - *Do It Tomorrow, Seminars*
+- [Additional Introductory \](/mark-forster-archive/2008/09/18/additional-introductory-do-it-tomorrow-seminar/) - *Seminars*
 - [\](/mark-forster-archive/2008/07/30/ill-just-get-the-file-out-conquer-procrastination-for-ever/) - *Articles, Time Management, Tips and Tricks*
 - [\](/mark-forster-archive/2008/07/16/making-it-all-work/) - *Books, Time Management*
+- [Better than Mind Maps?](/mark-forster-archive/2008/03/12/better-than-mind-maps/) - *Creativity*
+- [Auditing Your Time Management](/mark-forster-archive/2008/02/29/auditing-your-time-management/) - *Articles, Do It Tomorrow, Productivity*
+- [Articles](/mark-forster-archive/2008/02/28/articles/) - *Blog Administration*
 - [Untitled](/mark-forster-archive/2008/02/28/dreams-the-underestimated-book/)
 - [\](/mark-forster-archive/2008/02/27/do-it-tomorrow-sales-ratings/) - *Books*
 - [\](/mark-forster-archive/2008/02/21/do-it-tomorrow-rankings/) - *Books*
 - [\](/mark-forster-archive/2008/02/12/do-it-tomorrow-reviews/) - *Books*
 - [\](/mark-forster-archive/2008/01/21/how-to-make-your-dreams-come-true-review/) - *Books, Productivity*
+- [Attention](/mark-forster-archive/2008/01/15/attention/) - *Business Development, Creativity*
+- [Amazon five-star reviews](/mark-forster-archive/2008/01/05/amazon-five-star-reviews/) - *Books*
+- [A Great Way to Get Sacked](/mark-forster-archive/2007/12/13/a-great-way-to-get-sacked/) - *Books*
+- [101 Little Hacks to Help You Get Your Work Finished More Quickly](/mark-forster-archive/2007/10/15/101-little-hacks-to-help-you-get-your-work-finished-more-qui/) - *Tips and Tricks*
+- [Back from Holiday](/mark-forster-archive/2007/08/02/back-from-holiday/)
+- [Absorb Information Like Never Before](/mark-forster-archive/misc/absorb/information/like-never-before/)
 - [\](/mark-forster-archive/2007/05/09/who-am-i/) - *Life Management*
+- [Action versus Activity](/mark-forster-archive/2007/04/14/action-versus-activity/)
+- [Back to the Diet!](/mark-forster-archive/2007/03/05/back-to-the-diet/) - *Dieting*
+- [A Rest from the Diet](/mark-forster-archive/2007/02/26/a-rest-from-the-diet/) - *Dieting*
 - [\](/mark-forster-archive/2007/02/26/do-it-tomorrow-amazon-rankings/)
+- [Back to the Old Colours](/mark-forster-archive/2007/01/25/back-to-the-old-colours/)
+- [Article in London \](/mark-forster-archive/2007/01/25/article-in-london-daily-mail/)
 - [\](/mark-forster-archive/2006/12/07/seize-the-day/)
+- [Alexa Tool Bar](/mark-forster-archive/2006/11/09/alexa-tool-bar/)
 - [\](/mark-forster-archive/2006/11/03/no-s-diet-report/) - *Dieting, Road Tests*
 - [\](/mark-forster-archive/2006/10/23/do-it-tomorrow-interview/)
 - [\](/mark-forster-archive/2006/10/19/no-s-diet-update/) - *Dieting, Road Tests*
+- [Archive of Past Articles](/mark-forster-archive/2006/10/06/archive-of-past-articles/)
+- [An Easy Challenge - or is it?](/mark-forster-archive/2006/10/04/an-easy-challenge-or-is-it/) - *Life Management*
 - [\](/mark-forster-archive/2006/09/29/business-life-review/)
+- [Back to School?](/mark-forster-archive/2006/09/16/back-to-school/) - *Life Management*
+- [An Easy Challenge Revisited](/mark-forster-archive/2006/08/14/an-easy-challenge-revisited/)
