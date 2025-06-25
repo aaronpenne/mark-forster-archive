@@ -40,7 +40,7 @@ exclude:
 include:
   - _posts
 
-# Theme settings (using GitHub Pages default theme)
+# Theme settings
 theme: jekyll-theme-minimal
 
 # Show excerpts on index page
@@ -80,7 +80,3 @@ footer:
       url: "/categories/"
     - title: "Archive"
       url: "/archive/"
-
-# Pagination
-paginate: 10
-paginate_path: "/page/:num/"
