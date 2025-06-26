@@ -108,7 +108,7 @@ def regenerate_index():
         "",
         f"This archive preserves {len(posts_data)} blog posts and their comments from Mark Forster's productivity blog.",
         "",
-        "Mark Forster was a renowned productivity expert and author who developed several influential time management systems including Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).",
+        "Mark Forster is a renowned productivity expert and author who developed several influential time management systems including Autofocus, Do It Tomorrow, and Final Version Perfected (FVP).",
         "",
     ]
 
