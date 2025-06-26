@@ -1,84 +1,42 @@
-# Mark Forster Archive - Jekyll Configuration
-# A comprehensive memorial archive of Mark Forster's productivity blog
+# Mark Forster Archive - GitHub Pages Configuration
 
-title: "Mark Forster Archive"
-description: "A comprehensive archive of Mark Forster's influential work on time management systems like Autofocus, Do It Tomorrow, and Final Version Perfected (FVP)."
-author: "Mark Forster"
-url: "https://aaronpenne.github.io"
-baseurl: "/mark-forster-archive"
+title: Mark Forster Archive
+description: A comprehensive archive of Mark Forster's productivity blog posts and community discussions
+baseurl: ""
+url: ""
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year/:month/:day/:title/
 
 # Collections
 collections:
   posts:
     output: true
-    permalink: /:year/:month/:day/:title/
+    permalink: /:categories/:year/:month/:day/:title/
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Mark Forster"
+# Navigation
+header_pages:
+  - index.md
+
+# Social links (optional)
+# github_username: username
+# twitter_username: username
 
 # Exclude from processing
 exclude:
   - README.md
-  - PLAN.md
   - requirements.txt
   - "*.py"
-  - blog_post_urls.json
-  - .gitignore
+  - "*.log"
+  - "*.json"
   - venv/
-  - logs/
-
-# Include files
-include:
-  - _posts
-
-# Theme settings - using minima for better compatibility
-theme: minima
-
-# Show excerpts on index page (not full content)
-show_excerpts: true
-
-# Social media
-twitter:
-  username: ""
-  card: summary
-
-# SEO
-google_analytics: ""
-google_verification: ""
-
-# Custom settings
-show_comments: true
-show_author: true
-show_date: true
-show_categories: true
-show_tags: true
-
-# Navigation
-nav_external_links:
-  - title: "Original Site"
-    url: "http://markforster.squarespace.com"
-    external: true
-  - title: "GitHub"
-    url: "https://github.com/aaronpenne/mark-forster-archive"
-    external: true
-
-# Footer
-footer:
-  links:
-    - title: "About"
-      url: "/about/"
-    - title: "Categories"
-      url: "/categories/"
-    - title: "Archive"
-      url: "/archive/"
+  - __pycache__/
